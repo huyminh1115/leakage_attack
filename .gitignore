@@ -1,0 +1,38 @@
+# Python environments, caches, and test/build output
+.venv/
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local simulation output: retain only the reviewed public inputs and paper bundle.
+/results/*
+!/results/v2_empirical_inputs.json
+!/results/public_checkpoint_min_norm_v21_development_30_r2_paper/
+!/results/public_checkpoint_min_norm_v21_development_30_r2_paper/**
+
+# OS/editor files and generated archives
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.zip
+*.tar
+*.tar.gz

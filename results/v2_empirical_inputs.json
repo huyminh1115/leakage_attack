@@ -1,0 +1,6203 @@
+{
+  "activity_weight_pool": [
+    2,
+    2,
+    2,
+    1,
+    2,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    16,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    3,
+    1,
+    1,
+    2,
+    3,
+    5,
+    1,
+    6,
+    2,
+    2,
+    5,
+    1,
+    1,
+    1,
+    3,
+    1,
+    2,
+    1,
+    2,
+    1,
+    5,
+    1,
+    1,
+    5,
+    1,
+    1,
+    3,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    9,
+    1,
+    1,
+    1,
+    1,
+    4,
+    1,
+    22,
+    3,
+    2,
+    4,
+    1,
+    1,
+    3,
+    1,
+    5,
+    1,
+    1,
+    1,
+    1,
+    2,
+    11,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    6,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    3,
+    1,
+    2,
+    2,
+    1,
+    3,
+    8,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    4,
+    4,
+    4,
+    2,
+    1,
+    1,
+    3,
+    2,
+    14,
+    1,
+    4,
+    2,
+    1,
+    3,
+    2,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    4,
+    2,
+    5,
+    2,
+    3,
+    1,
+    1,
+    6,
+    2,
+    1,
+    1,
+    4,
+    1,
+    3,
+    1,
+    1,
+    34,
+    2,
+    6,
+    1,
+    3,
+    23,
+    2,
+    1,
+    1,
+    4,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    5,
+    1,
+    2,
+    2,
+    4,
+    1,
+    1,
+    3,
+    1,
+    1,
+    8,
+    1,
+    1,
+    1,
+    1,
+    8,
+    1,
+    1,
+    3,
+    1,
+    6,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    3,
+    15,
+    1,
+    1,
+    1,
+    1,
+    1,
+    5,
+    1,
+    1,
+    7,
+    1,
+    1,
+    1
+  ],
+  "activity_weight_records": [
+    {
+      "address": "0x03249184e0174f755cd5f79863ce55f68b3a9847",
+      "count": 2
+    },
+    {
+      "address": "0x04904597adc115ffb4987e4befb95aa3024fd3c5",
+      "count": 2
+    },
+    {
+      "address": "0x07a808f777c529a8a647e691088e8444e10deaa5",
+      "count": 2
+    },
+    {
+      "address": "0x082594b3869e98dddaf46cb8010ee286fbdbcab1",
+      "count": 1
+    },
+    {
+      "address": "0x089300e3cd93dbc23c93cc9b8c237f829ce51b04",
+      "count": 2
+    },
+    {
+      "address": "0x0894074a55337f22349a486c5355ca2159401962",
+      "count": 2
+    },
+    {
+      "address": "0x0932497508fb4586de0b3f8c355dcd9a3b5320fd",
+      "count": 1
+    },
+    {
+      "address": "0x0a9f51e5a9ba2a2174152ec276204f4cef156eaa",
+      "count": 3
+    },
+    {
+      "address": "0x0bced0863ade2773479bb3582b61ee1d8e2876ae",
+      "count": 1
+    },
+    {
+      "address": "0x0c60ff4329092bc36018823404ad459605911210",
+      "count": 1
+    },
+    {
+      "address": "0x0cd362691ba2958eae43de37e7643f1ae96b03bd",
+      "count": 1
+    },
+    {
+      "address": "0x0ce3958a14fea8932d20dcb25006d3d488018c30",
+      "count": 1
+    },
+    {
+      "address": "0x0d1b6ce30941e501833fe78a37631b38c6395b0c",
+      "count": 2
+    },
+    {
+      "address": "0x0d3d681762f9eda9541fab6acfb17c50025b630b",
+      "count": 1
+    },
+    {
+      "address": "0x0d42c534b0aafe7c65df3df54cfd68e2b7886f67",
+      "count": 1
+    },
+    {
+      "address": "0x0d9fe6a83c21edac0054ba5be78b4bf9257af86b",
+      "count": 1
+    },
+    {
+      "address": "0x0e6a9a9dc30ff7d4987bc71227f6e34291d6d90e",
+      "count": 16
+    },
+    {
+      "address": "0x10f6ad6b51cf2cbd45f94a913e756cfaec368620",
+      "count": 1
+    },
+    {
+      "address": "0x13b053f017b6c68e089267ffc3f10ee92ed95a79",
+      "count": 1
+    },
+    {
+      "address": "0x144cd88f5c7882db7b051224844f1b5301abcee8",
+      "count": 1
+    },
+    {
+      "address": "0x14e6100f50e43ac5f790c0207b9e00b21fcd703e",
+      "count": 1
+    },
+    {
+      "address": "0x154fd231984874e0ff2505bcbe845477ac935759",
+      "count": 1
+    },
+    {
+      "address": "0x1700ce578568ec065d0752fb5f20fbf87c40a90a",
+      "count": 1
+    },
+    {
+      "address": "0x1916c04754adfee372b45fa65ed0606e834b7f05",
+      "count": 3
+    },
+    {
+      "address": "0x1a9ea17cd5d024d27e505f6fa68ce465e6053723",
+      "count": 1
+    },
+    {
+      "address": "0x1b5f15dcb82d25f91c65b53cee151e8b9fbdd271",
+      "count": 1
+    },
+    {
+      "address": "0x1e35a02913b8150e542c42221ff3c98d04237f37",
+      "count": 1
+    },
+    {
+      "address": "0x1e4b0702f772ba04b606a3b81d5c2e22dd515c35",
+      "count": 2
+    },
+    {
+      "address": "0x1fdd220e14b59e26bf1888e8267c4c221983a0a6",
+      "count": 2
+    },
+    {
+      "address": "0x20493c81da20e64593c77a3297c7c8ed8cd8f879",
+      "count": 1
+    },
+    {
+      "address": "0x21e580fcdaaa5e94f0a2ec26af5069d5c4661a10",
+      "count": 3
+    },
+    {
+      "address": "0x226318c688fdeaeaab64a322d5c8e36d9f6b1d16",
+      "count": 1
+    },
+    {
+      "address": "0x22bf900bdfd4cdf0af25e142bf0d12f383c6ba75",
+      "count": 1
+    },
+    {
+      "address": "0x24493370087a890270c040cbf98421f1ee57d29e",
+      "count": 2
+    },
+    {
+      "address": "0x263b5394e4b3366c0e1a2b6887eb8a39478f43b4",
+      "count": 3
+    },
+    {
+      "address": "0x2650df0e50e61327381466b5526406d0d4994cc2",
+      "count": 5
+    },
+    {
+      "address": "0x2696b111cea1deed3fd9dd872b5672d30e19f279",
+      "count": 1
+    },
+    {
+      "address": "0x2868bc7730fefab47059a08a37f33ea3f6eac8ac",
+      "count": 6
+    },
+    {
+      "address": "0x293508a4b9a7bf501ee52108b1724d8c2f8472b7",
+      "count": 2
+    },
+    {
+      "address": "0x294cca23e5284116e0a74e6826405e4bf04b4a19",
+      "count": 2
+    },
+    {
+      "address": "0x2c01b4ad51a67e2d8f02208f54df9ac4c0b778b6",
+      "count": 5
+    },
+    {
+      "address": "0x2cd7ca2ee4ef60bf2d725b82572c659f6f2cf3e2",
+      "count": 1
+    },
+    {
+      "address": "0x2fd55b9133b3343d52a2d38e30a43db9126b1eb4",
+      "count": 1
+    },
+    {
+      "address": "0x330ac93962fb880e3bd61dfa51ed94795b035d93",
+      "count": 1
+    },
+    {
+      "address": "0x33333333d5efb92f19a5f94a43456b3cec2797ae",
+      "count": 3
+    },
+    {
+      "address": "0x33ba3eb902d4ff9f32be4152ae30216da3df907b",
+      "count": 1
+    },
+    {
+      "address": "0x35a83d4c1305451e0448fbca96cab29a7ccd0811",
+      "count": 2
+    },
+    {
+      "address": "0x35b69ec8da34b0da489d7fbbcc82a707518d890a",
+      "count": 1
+    },
+    {
+      "address": "0x37dfe3c885a47bc421f39aef5085e7b123ee5b02",
+      "count": 2
+    },
+    {
+      "address": "0x3868e22dc5885e6f4812653b7da2e2ec360c9061",
+      "count": 1
+    },
+    {
+      "address": "0x3a49f5a6a8af9b2103d882278193112cf9f73a25",
+      "count": 5
+    },
+    {
+      "address": "0x3af637465aea69f009004283095b1569e764ecd9",
+      "count": 1
+    },
+    {
+      "address": "0x3b2e01ad27b70fbc2a21af2972e00e85d2b1cfff",
+      "count": 1
+    },
+    {
+      "address": "0x3be697aa2a20b3686945df86cbd279d74eb5cf4c",
+      "count": 5
+    },
+    {
+      "address": "0x3cc561c1276cccf56d74cc6d65c516ef88a998d2",
+      "count": 1
+    },
+    {
+      "address": "0x3dbcce1ae06d714da56f7988603dff41052b396c",
+      "count": 1
+    },
+    {
+      "address": "0x3eba345251c55fcb3fa7fdb7a00eeb0b9815d5dc",
+      "count": 3
+    },
+    {
+      "address": "0x3ee9de1ed963fa2b6676235b5bb67797fbf1a844",
+      "count": 2
+    },
+    {
+      "address": "0x3efe375144161a8fdbe75cb1dc14d578cfb5ed25",
+      "count": 1
+    },
+    {
+      "address": "0x3efed426257b1493e4fad8f54361649642f5b43e",
+      "count": 2
+    },
+    {
+      "address": "0x3f7c10cbbb1ea1046a80b738b9eaf3217410c7f6",
+      "count": 1
+    },
+    {
+      "address": "0x3fff58ca68ddabc42cb21a55122838f0ecd00bea",
+      "count": 1
+    },
+    {
+      "address": "0x4349c6ceb045a7263a91fa9ae3d4bfe83136d348",
+      "count": 2
+    },
+    {
+      "address": "0x43b9f935c798522aaacb2bfea2f407ce5a291e9d",
+      "count": 1
+    },
+    {
+      "address": "0x4444aaaacdba5580282365e25b16309bd770ce4a",
+      "count": 9
+    },
+    {
+      "address": "0x46972ba1436658e98f29e6deb15c0ae41c457043",
+      "count": 1
+    },
+    {
+      "address": "0x499685f706181dc5a72b31598032881879fe6299",
+      "count": 1
+    },
+    {
+      "address": "0x49f47e38dcf2c87df5f65a072b1df5cf4edf928d",
+      "count": 1
+    },
+    {
+      "address": "0x4abc33cf81e0d21f42168d044f7002edd6b80b09",
+      "count": 1
+    },
+    {
+      "address": "0x4b7576abc3870ff017752649dad1221fc424cecf",
+      "count": 4
+    },
+    {
+      "address": "0x4cd6b970f42b41ee58c2e4b7ab99863d5ae52a23",
+      "count": 1
+    },
+    {
+      "address": "0x4cdf750ae887b2836d67ea25307d0931a1553b47",
+      "count": 22
+    },
+    {
+      "address": "0x4d04177119a2d1555faac6d58802a6989fe3be97",
+      "count": 3
+    },
+    {
+      "address": "0x4e18be58acc36ed6aa6a86bbfae124fea00abc01",
+      "count": 2
+    },
+    {
+      "address": "0x505963da2ef2bb0cd0a7fedaf67c71e745920ac6",
+      "count": 4
+    },
+    {
+      "address": "0x512db2b1d9ea48969b526c4d9626e63638870e29",
+      "count": 1
+    },
+    {
+      "address": "0x5152082be0a628dc1b2471416fbb9de49388ecf1",
+      "count": 1
+    },
+    {
+      "address": "0x52480e49c2436d30f58161e8fadea1fc95afdedb",
+      "count": 3
+    },
+    {
+      "address": "0x53bdda5f88fe5973dfb06f32232f595dbc73c0c0",
+      "count": 1
+    },
+    {
+      "address": "0x53ebeeed8c6b3899ac871d48b24f4ba53e6b15d3",
+      "count": 5
+    },
+    {
+      "address": "0x54991866a907891c9b85478cc1fb0560b17d2b1d",
+      "count": 1
+    },
+    {
+      "address": "0x55da40f22c29ecd2a3d550057932aedfe9b2970d",
+      "count": 1
+    },
+    {
+      "address": "0x55da96bbd04015603a7717d6fe3ab40e74fe3838",
+      "count": 1
+    },
+    {
+      "address": "0x569e62416cc9e10f1bdf6350f4edf20ca2d9b39f",
+      "count": 1
+    },
+    {
+      "address": "0x578bedf58b1294774c1ebc45ce9f5d8a7633828e",
+      "count": 2
+    },
+    {
+      "address": "0x5a7575368797695befd785f546c6b8b7e9d37f8c",
+      "count": 11
+    },
+    {
+      "address": "0x5c0c8d1cf51ac8e8d970051ac69dbdb1315b6036",
+      "count": 1
+    },
+    {
+      "address": "0x5dc2c366706bf35ceccc1b2eaca8b19cc9170428",
+      "count": 1
+    },
+    {
+      "address": "0x5ec70fff1ee39950095fa68ca4e39165f694378c",
+      "count": 2
+    },
+    {
+      "address": "0x61a2ba1348997be349d1c10ef3c626000f31c0fc",
+      "count": 1
+    },
+    {
+      "address": "0x62d6b0066713f74b95ea63d775982f8a8aa60e34",
+      "count": 2
+    },
+    {
+      "address": "0x63b8537c7a18f0df8780cb5f36085e5ffadb02a5",
+      "count": 1
+    },
+    {
+      "address": "0x63e02f93622541cfe41afedcf96a114db71ba4ee",
+      "count": 1
+    },
+    {
+      "address": "0x64d6bdd7108e6e6f8733fde09d9fb44cc9fdb32c",
+      "count": 2
+    },
+    {
+      "address": "0x64df7af696e0977771a0e1e1b1a8dd22ded3cf4b",
+      "count": 2
+    },
+    {
+      "address": "0x6717014072e8d6ffa93308b6af50e0add706a4e5",
+      "count": 1
+    },
+    {
+      "address": "0x6877bb79f680216bbdf01704939037f22193e771",
+      "count": 1
+    },
+    {
+      "address": "0x6b5b5f2de5fb8ac403c2632a21b55efc4dcc1ed3",
+      "count": 1
+    },
+    {
+      "address": "0x6ecf853b09481d3967707a292fdfc31a0edc1d52",
+      "count": 1
+    },
+    {
+      "address": "0x6fbc134ff4633b9f576059fb294fccd38946bba4",
+      "count": 1
+    },
+    {
+      "address": "0x700e75593dccbb0d9de117af8ba084382a63d576",
+      "count": 1
+    },
+    {
+      "address": "0x704d40d9212e511842fee1b667020a471ebe9ce0",
+      "count": 3
+    },
+    {
+      "address": "0x70a5654fe22b92cb85ce4a101ca9d52dbb6ac4c0",
+      "count": 2
+    },
+    {
+      "address": "0x70ccbe10f980d80b7ebaab7d2e3a73e87d67b775",
+      "count": 2
+    },
+    {
+      "address": "0x7286b073c97cdf1eb9ab874fb7f4a87330e0ae76",
+      "count": 1
+    },
+    {
+      "address": "0x737051bd823887d5128a724688bc5108e91d11be",
+      "count": 1
+    },
+    {
+      "address": "0x7427e62a55254155aa5fda4289ee1e5f5845611b",
+      "count": 1
+    },
+    {
+      "address": "0x76337b85c89bb576bf9ca773ebf40a2b057d39fd",
+      "count": 1
+    },
+    {
+      "address": "0x77a879f392cc765064c12707d2f79b63025b7590",
+      "count": 2
+    },
+    {
+      "address": "0x789330a9f15bbc61b524714528c1ce72237dc731",
+      "count": 6
+    },
+    {
+      "address": "0x78a4bf18aea7b1654bf2c3845ec8b6423ca536d4",
+      "count": 1
+    },
+    {
+      "address": "0x79e6ea6c15a9e3931629366cc98f2901dd53a886",
+      "count": 2
+    },
+    {
+      "address": "0x7a1f5c89860caf7d585970af39d844905bd6ca86",
+      "count": 2
+    },
+    {
+      "address": "0x7ce2cd742704b27324e6eacd3eebcec7ac940445",
+      "count": 1
+    },
+    {
+      "address": "0x7d31906369c75e4443065443b1e85e3eb5c93dcd",
+      "count": 2
+    },
+    {
+      "address": "0x80740cee43f9d8536b13a2b4c5f24705106fa5b2",
+      "count": 1
+    },
+    {
+      "address": "0x822c9782f35c4bc34216588e96fd6451e8db80cf",
+      "count": 1
+    },
+    {
+      "address": "0x83bcef98c11a3822ce6f2bc1ef3de6f5b1e232fc",
+      "count": 3
+    },
+    {
+      "address": "0x84e0892256ea9355808d66fdd0aff40d88a6bcf8",
+      "count": 1
+    },
+    {
+      "address": "0x85642f09cae3bcb5e6011a9191e04f641a7142e9",
+      "count": 2
+    },
+    {
+      "address": "0x857ee67e35b36a179635ddd276605f504e18c3f1",
+      "count": 2
+    },
+    {
+      "address": "0x86258c90525e6f98d649cfb41618c6102db0c412",
+      "count": 1
+    },
+    {
+      "address": "0x8648b1e944e1322ec914e6de015dc660f627927c",
+      "count": 3
+    },
+    {
+      "address": "0x87588d3fbcdff1bf84555f0a22056d94534a74a6",
+      "count": 8
+    },
+    {
+      "address": "0x88954361e813cc62537c8d2aa0e38f69b7ecdc6f",
+      "count": 2
+    },
+    {
+      "address": "0x889682887accd192e3c9a789bd9d508238e31c53",
+      "count": 2
+    },
+    {
+      "address": "0x88e399d855118cc0b2b8f0da50a8306e5318eba8",
+      "count": 1
+    },
+    {
+      "address": "0x8973b848775a87a0d5bcf262c555859b87e6f7da",
+      "count": 1
+    },
+    {
+      "address": "0x89c30e3af15d210736b2918fbd655c9842fd74f7",
+      "count": 1
+    },
+    {
+      "address": "0x8aa056ed37f0e984c760966ad0c6294028a59f6d",
+      "count": 1
+    },
+    {
+      "address": "0x8bd72f76c09ecb3736dce927bc3aac2249e22472",
+      "count": 4
+    },
+    {
+      "address": "0x8e8ee92dc7a146982003abad26e4bc4e98776f69",
+      "count": 4
+    },
+    {
+      "address": "0x8ee796309494a10b4170f8912613ee78c75a3430",
+      "count": 4
+    },
+    {
+      "address": "0x8ff170f9576710369af6a62c98ba4accd13994a7",
+      "count": 2
+    },
+    {
+      "address": "0x90899216f92e947a1e299157340add9934959349",
+      "count": 1
+    },
+    {
+      "address": "0x9298260dd7abbc0b23ccce66f822dedfaac499ba",
+      "count": 1
+    },
+    {
+      "address": "0x93689e482afc0e2d3215b47806c1555399f3755a",
+      "count": 3
+    },
+    {
+      "address": "0x957409aece7a5602b3d2a6456c540ed4a5f36a3e",
+      "count": 2
+    },
+    {
+      "address": "0x95f84e4469c70580ad1f76115550aa3306fc4c6e",
+      "count": 14
+    },
+    {
+      "address": "0x9725a4bbee1309e2c30f2cb1554f0aebed5f2c26",
+      "count": 1
+    },
+    {
+      "address": "0x97ade77cd9432be59b16b559a7a6fd2a19230a98",
+      "count": 4
+    },
+    {
+      "address": "0x97dbc6c500a8127b9d652c161f6b86038a832edf",
+      "count": 2
+    },
+    {
+      "address": "0x992c30047f2982bb72e5b518a1d55b673b1fe01b",
+      "count": 1
+    },
+    {
+      "address": "0x9a976726dab985a99b3c13710be7d601832542ef",
+      "count": 3
+    },
+    {
+      "address": "0x9d6fede5da9b4aa14c77ddeacbe3393a6d3f4add",
+      "count": 2
+    },
+    {
+      "address": "0x9e1c7896fabd6433ba241a954bf8dd508a496833",
+      "count": 1
+    },
+    {
+      "address": "0x9f000bbd4115d88ebbbf47aa0923a2ea766406a2",
+      "count": 1
+    },
+    {
+      "address": "0xa05510853b74f523a077007480ee1bbe258b2aed",
+      "count": 3
+    },
+    {
+      "address": "0xa2876e41bba8fc004831935e57c8451f3747c49a",
+      "count": 2
+    },
+    {
+      "address": "0xa33988a49499774603592d4290ef34f21596e2ae",
+      "count": 1
+    },
+    {
+      "address": "0xa35bd77693e260ef0b2fab7de8a4672907be2508",
+      "count": 1
+    },
+    {
+      "address": "0xa3e51498579db0f7bb1ec9e3093b2f44158e25a5",
+      "count": 4
+    },
+    {
+      "address": "0xa7016c3c05741400afe1cc111e3d4bb2838fef72",
+      "count": 2
+    },
+    {
+      "address": "0xa7b6f3d18db39f65c8056d0892af76c07d15fc5a",
+      "count": 5
+    },
+    {
+      "address": "0xa80000c3c100007e7f0500d95576a8001e408ede",
+      "count": 2
+    },
+    {
+      "address": "0xa8c49995efdcad8764e5e6ae1d56c4038cc00568",
+      "count": 3
+    },
+    {
+      "address": "0xa9c2912b9678e3d034058f39f7642154400f5a00",
+      "count": 1
+    },
+    {
+      "address": "0xaaa4d89fb6fe5c45ae795dd78582a13cafd7d047",
+      "count": 1
+    },
+    {
+      "address": "0xaac22da0baaf48ce621c0c8add5983c2078381bb",
+      "count": 6
+    },
+    {
+      "address": "0xabcdef0028b6cc3539c2397acab017519f8744c8",
+      "count": 2
+    },
+    {
+      "address": "0xb0172ed930e8a2cf9bfabc264b4fcfb4467724ab",
+      "count": 1
+    },
+    {
+      "address": "0xb1a64cddc6398aa187c67b691b7c5f10828f42f5",
+      "count": 1
+    },
+    {
+      "address": "0xb1d693b77232d88a3c9467ed5619ffe79e80bccc",
+      "count": 4
+    },
+    {
+      "address": "0xb4f99cbce0620227c22b03fdaaae9ae98e1f0180",
+      "count": 1
+    },
+    {
+      "address": "0xb634316e06cc0b358437cbadd4dc94f1d3a92b3b",
+      "count": 3
+    },
+    {
+      "address": "0xb65c858904b5dc5972e2be09decb601e82199252",
+      "count": 1
+    },
+    {
+      "address": "0xb6c5273e79e2add234ebc07d87f3824e0f94b2f7",
+      "count": 1
+    },
+    {
+      "address": "0xbbca1111ec2204bd9c546b755f91979e32a15b2e",
+      "count": 34
+    },
+    {
+      "address": "0xbd129b7765ba31a718eda5f75fc5585b7c9861b4",
+      "count": 2
+    },
+    {
+      "address": "0xbd5ca40c66226f53378ae06bc71784cad6016087",
+      "count": 6
+    },
+    {
+      "address": "0xbd8c14ae3bc592a9b0f1abadbaeae06797d14acb",
+      "count": 1
+    },
+    {
+      "address": "0xc0a893145ad461af44241a7db5bb99b8998e7d2c",
+      "count": 3
+    },
+    {
+      "address": "0xc113c4d519af3e9efb1adb80dbd9e0f20591f48d",
+      "count": 23
+    },
+    {
+      "address": "0xc16d7d0d16b185feb5bfb1ee9d45a91a515b26fc",
+      "count": 2
+    },
+    {
+      "address": "0xc42565d5dbfb1eda113b4f353ec60b3a399a01c1",
+      "count": 1
+    },
+    {
+      "address": "0xc9377aaad2e86fefea07cd2c38f4d6d6a87131e4",
+      "count": 1
+    },
+    {
+      "address": "0xcaa141ece9fee66d15f0257f5c6c48e26784345c",
+      "count": 4
+    },
+    {
+      "address": "0xcb5254e458114495cc9a09056859a981c08e7b0f",
+      "count": 1
+    },
+    {
+      "address": "0xcb926f497763ea5cf993912a442431e6a91d5a64",
+      "count": 1
+    },
+    {
+      "address": "0xccdb4a0d275f693024413d272c05ff9a7f9024ea",
+      "count": 1
+    },
+    {
+      "address": "0xcd4162f84a9043e3530a8762c4d3ea421ad18770",
+      "count": 1
+    },
+    {
+      "address": "0xd0002c648cca8dee2f2b8d70d542ccde8ad6ec03",
+      "count": 2
+    },
+    {
+      "address": "0xd08b294dbd8bc760c57abdec26515da626511b40",
+      "count": 1
+    },
+    {
+      "address": "0xd0fc7e479b948cc3df557b708782efbe11d26ae4",
+      "count": 1
+    },
+    {
+      "address": "0xd174dea276c4e0f82bbb2cd46e887e80bad8855d",
+      "count": 5
+    },
+    {
+      "address": "0xd413a16633d9bb416488442069ae4067f75c290a",
+      "count": 1
+    },
+    {
+      "address": "0xd438dee8c8c21d8405f673f6ac6a9b49dd459917",
+      "count": 2
+    },
+    {
+      "address": "0xd4910f22ef70ef3de98758ec84e11bef933f3a40",
+      "count": 2
+    },
+    {
+      "address": "0xd4f9fe0039da59e6ddb21bbb6e84e0c9e83d73ed",
+      "count": 4
+    },
+    {
+      "address": "0xd64cdf9b7101bf61292110579974589176d26846",
+      "count": 1
+    },
+    {
+      "address": "0xd6748776cf06a80ebe36cd83d325b31bb916bf54",
+      "count": 1
+    },
+    {
+      "address": "0xd91b6ded55c0fba2c1e88f2cdf6e051ecd788952",
+      "count": 3
+    },
+    {
+      "address": "0xda397504aa199487c733d103ac006b06f372e6cf",
+      "count": 1
+    },
+    {
+      "address": "0xda53895426469adf7aa0444972e5767c34f70058",
+      "count": 1
+    },
+    {
+      "address": "0xdb4fb78a5af0760ad6b8a398600566d9f1c0b5df",
+      "count": 8
+    },
+    {
+      "address": "0xdcd15b0d6d722f3bce1669ac8bd01cd842977b5b",
+      "count": 1
+    },
+    {
+      "address": "0xdd0b39f6962d2af180c841e0c24d7007c9e14c3f",
+      "count": 1
+    },
+    {
+      "address": "0xdebc3e0cdf0c48ae94bf173032a35c853aaf25e3",
+      "count": 1
+    },
+    {
+      "address": "0xe2e74116ad684cd1c6902b784b92158f87ed36e3",
+      "count": 1
+    },
+    {
+      "address": "0xe5718bbc5b347b5ba3eab66c4b3d81a7642fb17d",
+      "count": 8
+    },
+    {
+      "address": "0xe5e064f14846b6e3dea67e5362f45b931440726f",
+      "count": 1
+    },
+    {
+      "address": "0xe5fa0c94b259af512dfa62b432aa60b10ccc95b2",
+      "count": 1
+    },
+    {
+      "address": "0xe6029647727eda0f0d925fbd35eac9c9a6be8720",
+      "count": 3
+    },
+    {
+      "address": "0xe748a900b86a0cd92813a544eda5ad84cff4b5da",
+      "count": 1
+    },
+    {
+      "address": "0xe8f5ffc2399f9f72b49864dbbe1dea29a2c861ff",
+      "count": 6
+    },
+    {
+      "address": "0xe9234aead2883dee6d240f398416ec3697996312",
+      "count": 1
+    },
+    {
+      "address": "0xe97f2d37f9612b702d1a2eb5288bd62de95864b8",
+      "count": 1
+    },
+    {
+      "address": "0xed6d450a6a5093b67b8f70016a788ebd61cbbd8d",
+      "count": 1
+    },
+    {
+      "address": "0xee22316815ff76a56eb5dbf8ac8280f90fd71005",
+      "count": 2
+    },
+    {
+      "address": "0xefcdae66bc4a5352872f8226f5e6aaa379c870b0",
+      "count": 1
+    },
+    {
+      "address": "0xf01f91bad4f15941b00b35c4c148b2bc268b58e1",
+      "count": 1
+    },
+    {
+      "address": "0xf16f804e8a03f3323d7a6e67bc689651e56babe2",
+      "count": 1
+    },
+    {
+      "address": "0xf36265d3bc945ff236eadcf58820ad1d6e59d497",
+      "count": 1
+    },
+    {
+      "address": "0xf39ed30cc51b65392911fea9f33ec1ccceee1ed5",
+      "count": 3
+    },
+    {
+      "address": "0xf431c4a9bc6befb800b665d0ab96688ef6c2f854",
+      "count": 15
+    },
+    {
+      "address": "0xf70d9128f4109e84624da3c77bf20b81fb2b1089",
+      "count": 1
+    },
+    {
+      "address": "0xf873bebdd61ab385d6b24c135baf36c729ce8824",
+      "count": 1
+    },
+    {
+      "address": "0xf98a3ba92f63870b609145c1f9ea1807bcc347b3",
+      "count": 1
+    },
+    {
+      "address": "0xfa13df83e398c15318d62cf54bf0efb2a7e75442",
+      "count": 1
+    },
+    {
+      "address": "0xfa4697a87c5e4e0a27cc12c30ed4b9e338ef99ed",
+      "count": 1
+    },
+    {
+      "address": "0xfab0123b51020641d6e820e95a6d4c73aaa70427",
+      "count": 5
+    },
+    {
+      "address": "0xfe30cad51ad8990c3852ff4798b4a27827e02e5b",
+      "count": 1
+    },
+    {
+      "address": "0xfe51263bd0d075dc5441e89ecd1f6d63ff41e02e",
+      "count": 1
+    },
+    {
+      "address": "0xfeb4acf3df3cdea7399794d0869ef76a6efaff52",
+      "count": 7
+    },
+    {
+      "address": "0xff15b3ee5543c19d22a837574770c7bfda91f177",
+      "count": 1
+    },
+    {
+      "address": "0xff504b0f481eecd15a5edd1bffbf4e491913f728",
+      "count": 1
+    },
+    {
+      "address": "0xff6899ea779692969f71f93029cd9eb71cf43527",
+      "count": 1
+    }
+  ],
+  "artifact_sha256": "511638dd3b5d53d6f5610e6ddf16936c380167b67aee6ffed8a96822192e057f",
+  "daily_counts": {
+    "all_addresses": [
+      4,
+      2,
+      2,
+      0,
+      10,
+      9,
+      3,
+      3,
+      0,
+      1,
+      3,
+      3,
+      8,
+      0,
+      0,
+      4,
+      3,
+      1,
+      4,
+      2,
+      1,
+      4,
+      0,
+      0,
+      2,
+      1,
+      3,
+      6,
+      1,
+      0,
+      1,
+      0,
+      1,
+      3,
+      0,
+      0,
+      1,
+      6,
+      5,
+      3,
+      6,
+      5,
+      3,
+      6,
+      6,
+      3,
+      3,
+      0,
+      5,
+      3,
+      4,
+      5,
+      2,
+      3,
+      4,
+      2,
+      1,
+      1,
+      4,
+      6,
+      1,
+      4,
+      4,
+      2,
+      0,
+      2,
+      3,
+      2,
+      0,
+      3,
+      2,
+      1,
+      5,
+      4,
+      3,
+      2,
+      7,
+      4,
+      2,
+      5,
+      1,
+      0,
+      2,
+      2,
+      2,
+      6,
+      1,
+      2,
+      3,
+      6,
+      4,
+      3,
+      7,
+      2,
+      5,
+      4,
+      1,
+      1,
+      1,
+      0,
+      6,
+      3,
+      2,
+      2,
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      2,
+      3,
+      0,
+      2,
+      2,
+      3,
+      7,
+      8,
+      2,
+      4,
+      2,
+      2,
+      1,
+      3,
+      2,
+      2,
+      2,
+      0,
+      2,
+      2,
+      2,
+      2,
+      0,
+      1,
+      0,
+      1,
+      2,
+      0,
+      0,
+      2,
+      0,
+      3,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      3,
+      10,
+      5,
+      0,
+      0,
+      3,
+      0,
+      1,
+      0,
+      1,
+      3,
+      0,
+      5,
+      0,
+      1,
+      1,
+      0,
+      2,
+      2,
+      4,
+      1,
+      4,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0,
+      5,
+      2,
+      3,
+      3,
+      3,
+      5,
+      0,
+      4,
+      4,
+      5,
+      1,
+      3,
+      1,
+      0,
+      1,
+      4,
+      6,
+      2,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      2,
+      4,
+      1,
+      4,
+      5,
+      3,
+      9,
+      3,
+      3,
+      2,
+      2,
+      2,
+      2,
+      4,
+      5,
+      2,
+      3,
+      2,
+      3,
+      1,
+      5,
+      2,
+      8,
+      1,
+      3,
+      2,
+      3,
+      2,
+      1,
+      4,
+      4,
+      1,
+      0,
+      6,
+      5,
+      5,
+      2,
+      2,
+      1,
+      5,
+      2,
+      1,
+      3,
+      1,
+      3,
+      1,
+      1,
+      1,
+      2,
+      5,
+      2,
+      2,
+      2,
+      1,
+      3,
+      1,
+      2,
+      5,
+      1,
+      4,
+      1,
+      0,
+      5,
+      6,
+      2,
+      8,
+      2,
+      4,
+      2,
+      4,
+      7,
+      5,
+      3,
+      4,
+      3,
+      3,
+      1,
+      2,
+      3,
+      6,
+      4,
+      2,
+      6,
+      8,
+      10,
+      11,
+      11,
+      11,
+      6,
+      9,
+      2,
+      6,
+      6,
+      3,
+      4,
+      3,
+      3,
+      10,
+      2,
+      8,
+      2,
+      1,
+      2,
+      1,
+      13,
+      4,
+      6,
+      21,
+      5,
+      7,
+      1,
+      5,
+      2,
+      4,
+      9,
+      3,
+      8,
+      3,
+      13,
+      5,
+      10,
+      4,
+      5,
+      5,
+      3,
+      9,
+      10,
+      10,
+      8,
+      9,
+      2,
+      7,
+      1,
+      1,
+      7,
+      7,
+      5,
+      0,
+      2,
+      5,
+      3,
+      5,
+      3,
+      1,
+      3,
+      2,
+      4,
+      3,
+      1,
+      1,
+      8,
+      2,
+      0,
+      0,
+      6,
+      4,
+      5,
+      6
+    ],
+    "known_infrastructure_excluded": [
+      1,
+      1,
+      1,
+      0,
+      9,
+      8,
+      3,
+      1,
+      0,
+      0,
+      1,
+      2,
+      7,
+      0,
+      0,
+      2,
+      1,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0,
+      0,
+      2,
+      1,
+      1,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      3,
+      1,
+      1,
+      2,
+      0,
+      1,
+      2,
+      1,
+      1,
+      0,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      4,
+      1,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      1,
+      3,
+      0,
+      2,
+      0,
+      4,
+      3,
+      1,
+      4,
+      1,
+      2,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      2,
+      4,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      2,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      1,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      2,
+      1,
+      0,
+      2,
+      1,
+      2,
+      1,
+      2,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      2,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      4,
+      2,
+      1,
+      1,
+      0,
+      0,
+      2,
+      1,
+      4,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      2,
+      5,
+      1,
+      3,
+      1,
+      1,
+      1,
+      0,
+      3,
+      1,
+      0,
+      0,
+      4,
+      2,
+      3,
+      1,
+      1,
+      1,
+      5,
+      2,
+      1,
+      2,
+      0,
+      3,
+      0,
+      1,
+      0,
+      1,
+      4,
+      1,
+      1,
+      1,
+      1,
+      3,
+      0,
+      1,
+      4,
+      0,
+      2,
+      0,
+      0,
+      2,
+      5,
+      2,
+      4,
+      2,
+      4,
+      1,
+      3,
+      6,
+      3,
+      2,
+      2,
+      2,
+      3,
+      0,
+      0,
+      3,
+      3,
+      2,
+      0,
+      3,
+      5,
+      5,
+      4,
+      5,
+      5,
+      4,
+      3,
+      2,
+      2,
+      3,
+      2,
+      4,
+      1,
+      0,
+      8,
+      1,
+      4,
+      2,
+      1,
+      1,
+      0,
+      7,
+      4,
+      3,
+      15,
+      2,
+      6,
+      0,
+      4,
+      2,
+      1,
+      4,
+      0,
+      4,
+      0,
+      7,
+      3,
+      6,
+      3,
+      2,
+      3,
+      3,
+      9,
+      6,
+      4,
+      7,
+      8,
+      1,
+      5,
+      1,
+      1,
+      6,
+      6,
+      3,
+      0,
+      1,
+      4,
+      3,
+      4,
+      2,
+      0,
+      2,
+      2,
+      1,
+      2,
+      0,
+      1,
+      6,
+      2,
+      0,
+      0,
+      4,
+      1,
+      3,
+      4
+    ]
+  },
+  "day_basis": {
+    "first_epoch_day": 19848,
+    "last_epoch_day": 20210,
+    "timezone": "UTC",
+    "zero_inclusive": true
+  },
+  "full_exit_audit": {
+    "all_address_withdrawal_count": 501,
+    "audited_fraction": 0.01996007984031936,
+    "frozen_probability": 0.02,
+    "frozen_rationale": "audited all-address 10/501 lower-bound-style estimate under left-censored history",
+    "full_estimate_count": 10
+  },
+  "profile_pools": {
+    "deposit": {
+      "direction": "deposit",
+      "global_log_median": 21.779093043692882,
+      "missing_direction_log_imputation": 21.779093043692882,
+      "nonpositive_observations_excluded": 0,
+      "positive_observation_count": 213,
+      "profiles": [
+        {
+          "address": "0x03249184e0174f755cd5f79863ce55f68b3a9847",
+          "imputed_missing_direction": false,
+          "log_profile": 21.47187233023733,
+          "raw_log_median": 19.935768762959555,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x04904597adc115ffb4987e4befb95aa3024fd3c5",
+          "imputed_missing_direction": false,
+          "log_profile": 21.210502837729127,
+          "raw_log_median": 18.367551807910353,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x07a808f777c529a8a647e691088e8444e10deaa5",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x082594b3869e98dddaf46cb8010ee286fbdbcab1",
+          "imputed_missing_direction": false,
+          "log_profile": 21.477216482629814,
+          "raw_log_median": 19.96783367731448,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x089300e3cd93dbc23c93cc9b8c237f829ce51b04",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x0894074a55337f22349a486c5355ca2159401962",
+          "imputed_missing_direction": false,
+          "log_profile": 20.18346151445943,
+          "raw_log_median": 16.1943826913758,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x0932497508fb4586de0b3f8c355dcd9a3b5320fd",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x0a9f51e5a9ba2a2174152ec276204f4cef156eaa",
+          "imputed_missing_direction": false,
+          "log_profile": 22.33426269890063,
+          "raw_log_median": 23.722186836920002,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x0bced0863ade2773479bb3582b61ee1d8e2876ae",
+          "imputed_missing_direction": false,
+          "log_profile": 22.59341202571909,
+          "raw_log_median": 26.66500693585012,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x0c60ff4329092bc36018823404ad459605911210",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x0cd362691ba2958eae43de37e7643f1ae96b03bd",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x0ce3958a14fea8932d20dcb25006d3d488018c30",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x0d1b6ce30941e501833fe78a37631b38c6395b0c",
+          "imputed_missing_direction": false,
+          "log_profile": 21.94627691421679,
+          "raw_log_median": 22.364236590526552,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x0d3d681762f9eda9541fab6acfb17c50025b630b",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x0d42c534b0aafe7c65df3df54cfd68e2b7886f67",
+          "imputed_missing_direction": false,
+          "log_profile": 22.26365944752685,
+          "raw_log_median": 24.6864914666967,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x0d9fe6a83c21edac0054ba5be78b4bf9257af86b",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x0e6a9a9dc30ff7d4987bc71227f6e34291d6d90e",
+          "imputed_missing_direction": false,
+          "log_profile": 18.193285656809646,
+          "raw_log_median": 15.952156040007623,
+          "shrinkage_alpha": 0.6153846153846154,
+          "support": 8
+        },
+        {
+          "address": "0x10f6ad6b51cf2cbd45f94a913e756cfaec368620",
+          "imputed_missing_direction": false,
+          "log_profile": 21.999023584124032,
+          "raw_log_median": 23.09867628627979,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x13b053f017b6c68e089267ffc3f10ee92ed95a79",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x144cd88f5c7882db7b051224844f1b5301abcee8",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x14e6100f50e43ac5f790c0207b9e00b21fcd703e",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x154fd231984874e0ff2505bcbe845477ac935759",
+          "imputed_missing_direction": false,
+          "log_profile": 21.978058930909697,
+          "raw_log_median": 22.972888366993782,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x1700ce578568ec065d0752fb5f20fbf87c40a90a",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x1916c04754adfee372b45fa65ed0606e834b7f05",
+          "imputed_missing_direction": false,
+          "log_profile": 21.110637044595997,
+          "raw_log_median": 17.768357049111565,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x1a9ea17cd5d024d27e505f6fa68ce465e6053723",
+          "imputed_missing_direction": false,
+          "log_profile": 21.094232148181597,
+          "raw_log_median": 17.669927670625178,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x1b5f15dcb82d25f91c65b53cee151e8b9fbdd271",
+          "imputed_missing_direction": false,
+          "log_profile": 22.02869968978114,
+          "raw_log_median": 23.27673292022242,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x1e35a02913b8150e542c42221ff3c98d04237f37",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x1e4b0702f772ba04b606a3b81d5c2e22dd515c35",
+          "imputed_missing_direction": false,
+          "log_profile": 21.94863147208843,
+          "raw_log_median": 22.796323614066164,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x1fdd220e14b59e26bf1888e8267c4c221983a0a6",
+          "imputed_missing_direction": false,
+          "log_profile": 22.277557392046198,
+          "raw_log_median": 24.769879133812793,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x20493c81da20e64593c77a3297c7c8ed8cd8f879",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x21e580fcdaaa5e94f0a2ec26af5069d5c4661a10",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x226318c688fdeaeaab64a322d5c8e36d9f6b1d16",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x22bf900bdfd4cdf0af25e142bf0d12f383c6ba75",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x24493370087a890270c040cbf98421f1ee57d29e",
+          "imputed_missing_direction": false,
+          "log_profile": 22.167934223414665,
+          "raw_log_median": 24.11214012202359,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x263b5394e4b3366c0e1a2b6887eb8a39478f43b4",
+          "imputed_missing_direction": false,
+          "log_profile": 21.363279198329817,
+          "raw_log_median": 19.284209971514496,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x2650df0e50e61327381466b5526406d0d4994cc2",
+          "imputed_missing_direction": false,
+          "log_profile": 22.853725085202164,
+          "raw_log_median": 23.928357126711447,
+          "shrinkage_alpha": 0.5,
+          "support": 5
+        },
+        {
+          "address": "0x2696b111cea1deed3fd9dd872b5672d30e19f279",
+          "imputed_missing_direction": false,
+          "log_profile": 20.803414889690973,
+          "raw_log_median": 15.925024119681432,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x2868bc7730fefab47059a08a37f33ea3f6eac8ac",
+          "imputed_missing_direction": false,
+          "log_profile": 22.383444825456095,
+          "raw_log_median": 23.894324279864133,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x293508a4b9a7bf501ee52108b1724d8c2f8472b7",
+          "imputed_missing_direction": false,
+          "log_profile": 21.179961906930707,
+          "raw_log_median": 18.184306223119833,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x294cca23e5284116e0a74e6826405e4bf04b4a19",
+          "imputed_missing_direction": false,
+          "log_profile": 22.24910086334072,
+          "raw_log_median": 24.599139961579898,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x2c01b4ad51a67e2d8f02208f54df9ac4c0b778b6",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x2cd7ca2ee4ef60bf2d725b82572c659f6f2cf3e2",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x2fd55b9133b3343d52a2d38e30a43db9126b1eb4",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x330ac93962fb880e3bd61dfa51ed94795b035d93",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x33333333d5efb92f19a5f94a43456b3cec2797ae",
+          "imputed_missing_direction": false,
+          "log_profile": 22.296999226325553,
+          "raw_log_median": 23.591764682907232,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x33ba3eb902d4ff9f32be4152ae30216da3df907b",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x35a83d4c1305451e0448fbca96cab29a7ccd0811",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x35b69ec8da34b0da489d7fbbcc82a707518d890a",
+          "imputed_missing_direction": false,
+          "log_profile": 21.59568066065015,
+          "raw_log_median": 20.678618745436484,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x37dfe3c885a47bc421f39aef5085e7b123ee5b02",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x3868e22dc5885e6f4812653b7da2e2ec360c9061",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x3a49f5a6a8af9b2103d882278193112cf9f73a25",
+          "imputed_missing_direction": false,
+          "log_profile": 20.24609445778742,
+          "raw_log_median": 17.691096814611655,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0x3af637465aea69f009004283095b1569e764ecd9",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x3b2e01ad27b70fbc2a21af2972e00e85d2b1cfff",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x3be697aa2a20b3686945df86cbd279d74eb5cf4c",
+          "imputed_missing_direction": false,
+          "log_profile": 19.487801245688498,
+          "raw_log_median": 13.759571750677537,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x3cc561c1276cccf56d74cc6d65c516ef88a998d2",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x3dbcce1ae06d714da56f7988603dff41052b396c",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x3eba345251c55fcb3fa7fdb7a00eeb0b9815d5dc",
+          "imputed_missing_direction": false,
+          "log_profile": 21.98273827552258,
+          "raw_log_median": 23.000964434671054,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x3ee9de1ed963fa2b6676235b5bb67797fbf1a844",
+          "imputed_missing_direction": false,
+          "log_profile": 22.13164377989854,
+          "raw_log_median": 23.894397460926815,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x3efe375144161a8fdbe75cb1dc14d578cfb5ed25",
+          "imputed_missing_direction": false,
+          "log_profile": 20.057807502097123,
+          "raw_log_median": 11.451379794118326,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x3efed426257b1493e4fad8f54361649642f5b43e",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x3f7c10cbbb1ea1046a80b738b9eaf3217410c7f6",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x3fff58ca68ddabc42cb21a55122838f0ecd00bea",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x4349c6ceb045a7263a91fa9ae3d4bfe83136d348",
+          "imputed_missing_direction": false,
+          "log_profile": 21.039808158421863,
+          "raw_log_median": 17.34338373206678,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x43b9f935c798522aaacb2bfea2f407ce5a291e9d",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x4444aaaacdba5580282365e25b16309bd770ce4a",
+          "imputed_missing_direction": false,
+          "log_profile": 22.47067640828891,
+          "raw_log_median": 25.92859323126906,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x46972ba1436658e98f29e6deb15c0ae41c457043",
+          "imputed_missing_direction": false,
+          "log_profile": 21.594324521237155,
+          "raw_log_median": 20.670481908958525,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x499685f706181dc5a72b31598032881879fe6299",
+          "imputed_missing_direction": false,
+          "log_profile": 21.778080321653547,
+          "raw_log_median": 21.77301671145687,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x49f47e38dcf2c87df5f65a072b1df5cf4edf928d",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x4abc33cf81e0d21f42168d044f7002edd6b80b09",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x4b7576abc3870ff017752649dad1221fc424cecf",
+          "imputed_missing_direction": false,
+          "log_profile": 22.683557810724768,
+          "raw_log_median": 24.944719728304477,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x4cd6b970f42b41ee58c2e4b7ab99863d5ae52a23",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x4cdf750ae887b2836d67ea25307d0931a1553b47",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x4d04177119a2d1555faac6d58802a6989fe3be97",
+          "imputed_missing_direction": false,
+          "log_profile": 20.678685267848564,
+          "raw_log_median": 17.927665828237764,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x4e18be58acc36ed6aa6a86bbfae124fea00abc01",
+          "imputed_missing_direction": false,
+          "log_profile": 20.82765741518285,
+          "raw_log_median": 16.07047927263267,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x505963da2ef2bb0cd0a7fedaf67c71e745920ac6",
+          "imputed_missing_direction": false,
+          "log_profile": 20.146276612123565,
+          "raw_log_median": 16.064235533200275,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x512db2b1d9ea48969b526c4d9626e63638870e29",
+          "imputed_missing_direction": false,
+          "log_profile": 22.20869489487201,
+          "raw_log_median": 24.35670415076765,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x5152082be0a628dc1b2471416fbb9de49388ecf1",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x52480e49c2436d30f58161e8fadea1fc95afdedb",
+          "imputed_missing_direction": false,
+          "log_profile": 21.4788779011122,
+          "raw_log_median": 19.977802188208777,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x53bdda5f88fe5973dfb06f32232f595dbc73c0c0",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x53ebeeed8c6b3899ac871d48b24f4ba53e6b15d3",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x54991866a907891c9b85478cc1fb0560b17d2b1d",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x55da40f22c29ecd2a3d550057932aedfe9b2970d",
+          "imputed_missing_direction": false,
+          "log_profile": 20.453705364114064,
+          "raw_log_median": 13.826766966219973,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x55da96bbd04015603a7717d6fe3ab40e74fe3838",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x569e62416cc9e10f1bdf6350f4edf20ca2d9b39f",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x578bedf58b1294774c1ebc45ce9f5d8a7633828e",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x5a7575368797695befd785f546c6b8b7e9d37f8c",
+          "imputed_missing_direction": false,
+          "log_profile": 24.056188957245375,
+          "raw_log_median": 25.09123255431469,
+          "shrinkage_alpha": 0.6875,
+          "support": 11
+        },
+        {
+          "address": "0x5c0c8d1cf51ac8e8d970051ac69dbdb1315b6036",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x5dc2c366706bf35ceccc1b2eaca8b19cc9170428",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x5ec70fff1ee39950095fa68ca4e39165f694378c",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x61a2ba1348997be349d1c10ef3c626000f31c0fc",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x62d6b0066713f74b95ea63d775982f8a8aa60e34",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x63b8537c7a18f0df8780cb5f36085e5ffadb02a5",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x63e02f93622541cfe41afedcf96a114db71ba4ee",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x64d6bdd7108e6e6f8733fde09d9fb44cc9fdb32c",
+          "imputed_missing_direction": false,
+          "log_profile": 22.162464459546268,
+          "raw_log_median": 24.079321538813204,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x64df7af696e0977771a0e1e1b1a8dd22ded3cf4b",
+          "imputed_missing_direction": false,
+          "log_profile": 21.60217849119625,
+          "raw_log_median": 20.71760572871307,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x6717014072e8d6ffa93308b6af50e0add706a4e5",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x6877bb79f680216bbdf01704939037f22193e771",
+          "imputed_missing_direction": false,
+          "log_profile": 20.182552255495768,
+          "raw_log_median": 12.199848314510202,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x6b5b5f2de5fb8ac403c2632a21b55efc4dcc1ed3",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x6ecf853b09481d3967707a292fdfc31a0edc1d52",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x6fbc134ff4633b9f576059fb294fccd38946bba4",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x700e75593dccbb0d9de117af8ba084382a63d576",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x704d40d9212e511842fee1b667020a471ebe9ce0",
+          "imputed_missing_direction": false,
+          "log_profile": 22.37813129507358,
+          "raw_log_median": 23.37652838070807,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0x70a5654fe22b92cb85ce4a101ca9d52dbb6ac4c0",
+          "imputed_missing_direction": false,
+          "log_profile": 22.51529597174822,
+          "raw_log_median": 26.196310612024906,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x70ccbe10f980d80b7ebaab7d2e3a73e87d67b775",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x7286b073c97cdf1eb9ab874fb7f4a87330e0ae76",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x737051bd823887d5128a724688bc5108e91d11be",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x7427e62a55254155aa5fda4289ee1e5f5845611b",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x76337b85c89bb576bf9ca773ebf40a2b057d39fd",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x77a879f392cc765064c12707d2f79b63025b7590",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x789330a9f15bbc61b524714528c1ce72237dc731",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x78a4bf18aea7b1654bf2c3845ec8b6423ca536d4",
+          "imputed_missing_direction": false,
+          "log_profile": 20.93918720251936,
+          "raw_log_median": 16.73965799665175,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x79e6ea6c15a9e3931629366cc98f2901dd53a886",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x7a1f5c89860caf7d585970af39d844905bd6ca86",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x7ce2cd742704b27324e6eacd3eebcec7ac940445",
+          "imputed_missing_direction": false,
+          "log_profile": 21.940631961995212,
+          "raw_log_median": 22.748326553506867,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x7d31906369c75e4443065443b1e85e3eb5c93dcd",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x80740cee43f9d8536b13a2b4c5f24705106fa5b2",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x822c9782f35c4bc34216588e96fd6451e8db80cf",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x83bcef98c11a3822ce6f2bc1ef3de6f5b1e232fc",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x84e0892256ea9355808d66fdd0aff40d88a6bcf8",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x85642f09cae3bcb5e6011a9191e04f641a7142e9",
+          "imputed_missing_direction": false,
+          "log_profile": 22.09738421963616,
+          "raw_log_median": 23.688840099352554,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x857ee67e35b36a179635ddd276605f504e18c3f1",
+          "imputed_missing_direction": false,
+          "log_profile": 22.187663065646937,
+          "raw_log_median": 24.230513175417215,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x86258c90525e6f98d649cfb41618c6102db0c412",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x8648b1e944e1322ec914e6de015dc660f627927c",
+          "imputed_missing_direction": false,
+          "log_profile": 22.31479132553578,
+          "raw_log_median": 24.99328273475026,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x87588d3fbcdff1bf84555f0a22056d94534a74a6",
+          "imputed_missing_direction": false,
+          "log_profile": 20.373598562277312,
+          "raw_log_median": 19.49516451139258,
+          "shrinkage_alpha": 0.6153846153846154,
+          "support": 8
+        },
+        {
+          "address": "0x88954361e813cc62537c8d2aa0e38f69b7ecdc6f",
+          "imputed_missing_direction": false,
+          "log_profile": 21.929609158522872,
+          "raw_log_median": 22.682189732672825,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x889682887accd192e3c9a789bd9d508238e31c53",
+          "imputed_missing_direction": false,
+          "log_profile": 19.92064719494686,
+          "raw_log_median": 15.274532573081796,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x88e399d855118cc0b2b8f0da50a8306e5318eba8",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x8973b848775a87a0d5bcf262c555859b87e6f7da",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x89c30e3af15d210736b2918fbd655c9842fd74f7",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x8aa056ed37f0e984c760966ad0c6294028a59f6d",
+          "imputed_missing_direction": false,
+          "log_profile": 22.17517481299378,
+          "raw_log_median": 24.155583659498273,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x8bd72f76c09ecb3736dce927bc3aac2249e22472",
+          "imputed_missing_direction": false,
+          "log_profile": 19.502002938019427,
+          "raw_log_median": 13.809277673835787,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x8e8ee92dc7a146982003abad26e4bc4e98776f69",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x8ee796309494a10b4170f8912613ee78c75a3430",
+          "imputed_missing_direction": false,
+          "log_profile": 21.654146913245874,
+          "raw_log_median": 21.34178158712836,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x8ff170f9576710369af6a62c98ba4accd13994a7",
+          "imputed_missing_direction": false,
+          "log_profile": 21.186558878332246,
+          "raw_log_median": 18.223888051529066,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x90899216f92e947a1e299157340add9934959349",
+          "imputed_missing_direction": false,
+          "log_profile": 21.20481245921843,
+          "raw_log_median": 18.33340953684618,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x9298260dd7abbc0b23ccce66f822dedfaac499ba",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x93689e482afc0e2d3215b47806c1555399f3755a",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x957409aece7a5602b3d2a6456c540ed4a5f36a3e",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x95f84e4469c70580ad1f76115550aa3306fc4c6e",
+          "imputed_missing_direction": false,
+          "log_profile": 19.632806303581177,
+          "raw_log_median": 18.440424781296894,
+          "shrinkage_alpha": 0.6428571428571429,
+          "support": 9
+        },
+        {
+          "address": "0x9725a4bbee1309e2c30f2cb1554f0aebed5f2c26",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x97ade77cd9432be59b16b559a7a6fd2a19230a98",
+          "imputed_missing_direction": false,
+          "log_profile": 22.258644904232156,
+          "raw_log_median": 24.656404206928535,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x97dbc6c500a8127b9d652c161f6b86038a832edf",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x992c30047f2982bb72e5b518a1d55b673b1fe01b",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x9a976726dab985a99b3c13710be7d601832542ef",
+          "imputed_missing_direction": false,
+          "log_profile": 22.77956112233968,
+          "raw_log_median": 25.28073131895667,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x9d6fede5da9b4aa14c77ddeacbe3393a6d3f4add",
+          "imputed_missing_direction": false,
+          "log_profile": 21.023574861590298,
+          "raw_log_median": 17.245983951077367,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x9e1c7896fabd6433ba241a954bf8dd508a496833",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x9f000bbd4115d88ebbbf47aa0923a2ea766406a2",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xa05510853b74f523a077007480ee1bbe258b2aed",
+          "imputed_missing_direction": false,
+          "log_profile": 22.89653828875511,
+          "raw_log_median": 25.690151401410674,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0xa2876e41bba8fc004831935e57c8451f3747c49a",
+          "imputed_missing_direction": false,
+          "log_profile": 22.415920904084995,
+          "raw_log_median": 25.600060206045562,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xa33988a49499774603592d4290ef34f21596e2ae",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xa35bd77693e260ef0b2fab7de8a4672907be2508",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xa3e51498579db0f7bb1ec9e3093b2f44158e25a5",
+          "imputed_missing_direction": false,
+          "log_profile": 22.284673188236408,
+          "raw_log_median": 23.12730676247562,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0xa7016c3c05741400afe1cc111e3d4bb2838fef72",
+          "imputed_missing_direction": false,
+          "log_profile": 21.8700386203476,
+          "raw_log_median": 22.324766503621188,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xa7b6f3d18db39f65c8056d0892af76c07d15fc5a",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xa80000c3c100007e7f0500d95576a8001e408ede",
+          "imputed_missing_direction": false,
+          "log_profile": 21.82124724779024,
+          "raw_log_median": 22.032018268277024,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xa8c49995efdcad8764e5e6ae1d56c4038cc00568",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xa9c2912b9678e3d034058f39f7642154400f5a00",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xaaa4d89fb6fe5c45ae795dd78582a13cafd7d047",
+          "imputed_missing_direction": false,
+          "log_profile": 21.221597643501077,
+          "raw_log_median": 18.434120642542066,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xaac22da0baaf48ce621c0c8add5983c2078381bb",
+          "imputed_missing_direction": false,
+          "log_profile": 15.491456099339398,
+          "raw_log_median": 9.203819154985917,
+          "shrinkage_alpha": 0.5,
+          "support": 5
+        },
+        {
+          "address": "0xabcdef0028b6cc3539c2397acab017519f8744c8",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xb0172ed930e8a2cf9bfabc264b4fcfb4467724ab",
+          "imputed_missing_direction": false,
+          "log_profile": 21.095464592409193,
+          "raw_log_median": 17.677322335990752,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xb1a64cddc6398aa187c67b691b7c5f10828f42f5",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xb1d693b77232d88a3c9467ed5619ffe79e80bccc",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xb4f99cbce0620227c22b03fdaaae9ae98e1f0180",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xb634316e06cc0b358437cbadd4dc94f1d3a92b3b",
+          "imputed_missing_direction": false,
+          "log_profile": 21.83798329994631,
+          "raw_log_median": 21.936133727035354,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0xb65c858904b5dc5972e2be09decb601e82199252",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xb6c5273e79e2add234ebc07d87f3824e0f94b2f7",
+          "imputed_missing_direction": false,
+          "log_profile": 20.4507620529967,
+          "raw_log_median": 13.80910709951579,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xbbca1111ec2204bd9c546b755f91979e32a15b2e",
+          "imputed_missing_direction": false,
+          "log_profile": 22.30863282989414,
+          "raw_log_median": 22.529274407477995,
+          "shrinkage_alpha": 0.7058823529411765,
+          "support": 12
+        },
+        {
+          "address": "0xbd129b7765ba31a718eda5f75fc5585b7c9861b4",
+          "imputed_missing_direction": false,
+          "log_profile": 21.574340456005483,
+          "raw_log_median": 20.5505775175685,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xbd5ca40c66226f53378ae06bc71784cad6016087",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xbd8c14ae3bc592a9b0f1abadbaeae06797d14acb",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xc0a893145ad461af44241a7db5bb99b8998e7d2c",
+          "imputed_missing_direction": false,
+          "log_profile": 22.185523794524688,
+          "raw_log_median": 24.217677548683714,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xc113c4d519af3e9efb1adb80dbd9e0f20591f48d",
+          "imputed_missing_direction": false,
+          "log_profile": 20.813919343837444,
+          "raw_log_median": 19.848745643982006,
+          "shrinkage_alpha": 0.5,
+          "support": 5
+        },
+        {
+          "address": "0xc16d7d0d16b185feb5bfb1ee9d45a91a515b26fc",
+          "imputed_missing_direction": false,
+          "log_profile": 21.882236955984986,
+          "raw_log_median": 22.397956517445508,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xc42565d5dbfb1eda113b4f353ec60b3a399a01c1",
+          "imputed_missing_direction": false,
+          "log_profile": 21.779188379890662,
+          "raw_log_median": 21.779665060879577,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xc9377aaad2e86fefea07cd2c38f4d6d6a87131e4",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xcaa141ece9fee66d15f0257f5c6c48e26784345c",
+          "imputed_missing_direction": false,
+          "log_profile": 15.166487541627234,
+          "raw_log_median": 6.900730664045173,
+          "shrinkage_alpha": 0.4444444444444444,
+          "support": 4
+        },
+        {
+          "address": "0xcb5254e458114495cc9a09056859a981c08e7b0f",
+          "imputed_missing_direction": false,
+          "log_profile": 21.797173951668896,
+          "raw_log_median": 21.887578491548958,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xcb926f497763ea5cf993912a442431e6a91d5a64",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xccdb4a0d275f693024413d272c05ff9a7f9024ea",
+          "imputed_missing_direction": false,
+          "log_profile": 22.093079989990358,
+          "raw_log_median": 23.663014721477737,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xcd4162f84a9043e3530a8762c4d3ea421ad18770",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xd0002c648cca8dee2f2b8d70d542ccde8ad6ec03",
+          "imputed_missing_direction": false,
+          "log_profile": 21.9210782911443,
+          "raw_log_median": 22.276041409772848,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0xd08b294dbd8bc760c57abdec26515da626511b40",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xd0fc7e479b948cc3df557b708782efbe11d26ae4",
+          "imputed_missing_direction": false,
+          "log_profile": 22.364995964786726,
+          "raw_log_median": 25.29451057025595,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xd174dea276c4e0f82bbb2cd46e887e80bad8855d",
+          "imputed_missing_direction": false,
+          "log_profile": 20.506713953163853,
+          "raw_log_median": 17.325766226841278,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0xd413a16633d9bb416488442069ae4067f75c290a",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xd438dee8c8c21d8405f673f6ac6a9b49dd459917",
+          "imputed_missing_direction": false,
+          "log_profile": 21.394220494978697,
+          "raw_log_median": 19.469857751407783,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xd4910f22ef70ef3de98758ec84e11bef933f3a40",
+          "imputed_missing_direction": false,
+          "log_profile": 21.211476437156737,
+          "raw_log_median": 18.37339340447601,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xd4f9fe0039da59e6ddb21bbb6e84e0c9e83d73ed",
+          "imputed_missing_direction": false,
+          "log_profile": 22.45252211705479,
+          "raw_log_median": 24.13609480045956,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0xd64cdf9b7101bf61292110579974589176d26846",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xd6748776cf06a80ebe36cd83d325b31bb916bf54",
+          "imputed_missing_direction": false,
+          "log_profile": 22.185200257105986,
+          "raw_log_median": 24.215736324171516,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xd91b6ded55c0fba2c1e88f2cdf6e051ecd788952",
+          "imputed_missing_direction": false,
+          "log_profile": 21.59965223688491,
+          "raw_log_median": 20.702448202845062,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xda397504aa199487c733d103ac006b06f372e6cf",
+          "imputed_missing_direction": false,
+          "log_profile": 22.630468777920058,
+          "raw_log_median": 26.887347449055948,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xda53895426469adf7aa0444972e5767c34f70058",
+          "imputed_missing_direction": false,
+          "log_profile": 21.317585833746747,
+          "raw_log_median": 19.010049784016072,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xdb4fb78a5af0760ad6b8a398600566d9f1c0b5df",
+          "imputed_missing_direction": false,
+          "log_profile": 21.744922578481912,
+          "raw_log_median": 21.723566037725057,
+          "shrinkage_alpha": 0.6153846153846154,
+          "support": 8
+        },
+        {
+          "address": "0xdcd15b0d6d722f3bce1669ac8bd01cd842977b5b",
+          "imputed_missing_direction": false,
+          "log_profile": 21.863966509832785,
+          "raw_log_median": 22.288333840532296,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xdd0b39f6962d2af180c841e0c24d7007c9e14c3f",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xdebc3e0cdf0c48ae94bf173032a35c853aaf25e3",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xe2e74116ad684cd1c6902b784b92158f87ed36e3",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xe5718bbc5b347b5ba3eab66c4b3d81a7642fb17d",
+          "imputed_missing_direction": false,
+          "log_profile": 21.91602445979929,
+          "raw_log_median": 22.013832614161004,
+          "shrinkage_alpha": 0.5833333333333334,
+          "support": 7
+        },
+        {
+          "address": "0xe5e064f14846b6e3dea67e5362f45b931440726f",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xe5fa0c94b259af512dfa62b432aa60b10ccc95b2",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xe6029647727eda0f0d925fbd35eac9c9a6be8720",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xe748a900b86a0cd92813a544eda5ad84cff4b5da",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xe8f5ffc2399f9f72b49864dbbe1dea29a2c861ff",
+          "imputed_missing_direction": false,
+          "log_profile": 18.69082257419646,
+          "raw_log_median": 16.117263849616105,
+          "shrinkage_alpha": 0.5454545454545454,
+          "support": 6
+        },
+        {
+          "address": "0xe9234aead2883dee6d240f398416ec3697996312",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xe97f2d37f9612b702d1a2eb5288bd62de95864b8",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xed6d450a6a5093b67b8f70016a788ebd61cbbd8d",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xee22316815ff76a56eb5dbf8ac8280f90fd71005",
+          "imputed_missing_direction": false,
+          "log_profile": 21.862555529403377,
+          "raw_log_median": 22.279867957955847,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xefcdae66bc4a5352872f8226f5e6aaa379c870b0",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xf01f91bad4f15941b00b35c4c148b2bc268b58e1",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xf16f804e8a03f3323d7a6e67bc689651e56babe2",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xf36265d3bc945ff236eadcf58820ad1d6e59d497",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xf39ed30cc51b65392911fea9f33ec1ccceee1ed5",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xf431c4a9bc6befb800b665d0ab96688ef6c2f854",
+          "imputed_missing_direction": false,
+          "log_profile": 23.959395447237384,
+          "raw_log_median": 27.593232786478225,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0xf70d9128f4109e84624da3c77bf20b81fb2b1089",
+          "imputed_missing_direction": false,
+          "log_profile": 21.393620765670263,
+          "raw_log_median": 19.46625937555717,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xf873bebdd61ab385d6b24c135baf36c729ce8824",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xf98a3ba92f63870b609145c1f9ea1807bcc347b3",
+          "imputed_missing_direction": false,
+          "log_profile": 21.708154522103104,
+          "raw_log_median": 21.35346191415422,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xfa13df83e398c15318d62cf54bf0efb2a7e75442",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xfa4697a87c5e4e0a27cc12c30ed4b9e338ef99ed",
+          "imputed_missing_direction": false,
+          "log_profile": 21.15084664131941,
+          "raw_log_median": 18.009614629452056,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xfab0123b51020641d6e820e95a6d4c73aaa70427",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xfe30cad51ad8990c3852ff4798b4a27827e02e5b",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xfe51263bd0d075dc5441e89ecd1f6d63ff41e02e",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xfeb4acf3df3cdea7399794d0869ef76a6efaff52",
+          "imputed_missing_direction": false,
+          "log_profile": 24.007233124740452,
+          "raw_log_median": 25.598761754060146,
+          "shrinkage_alpha": 0.5833333333333334,
+          "support": 7
+        },
+        {
+          "address": "0xff15b3ee5543c19d22a837574770c7bfda91f177",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xff504b0f481eecd15a5edd1bffbf4e491913f728",
+          "imputed_missing_direction": false,
+          "log_profile": 21.638360496763593,
+          "raw_log_median": 20.93469776211714,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xff6899ea779692969f71f93029cd9eb71cf43527",
+          "imputed_missing_direction": true,
+          "log_profile": 21.779093043692882,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        }
+      ],
+      "residual_log_pool": [
+        0.0,
+        0.0,
+        0.0,
+        0.4894377069131508,
+        -0.48943770691314725,
+        -1.2019013164628483,
+        1.2019013164628483,
+        0.0,
+        -1.3862943611198906,
+        1.3862943611198906,
+        0.0,
+        -1.3862943611198906,
+        -1.0252133860506003,
+        0.06678645636885605,
+        -0.06678645636885605,
+        -0.17223944145220393,
+        0.4590113082462821,
+        0.36668653987064204,
+        0.26465788568720683,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.8997440496141564,
+        0.6520548610181685,
+        0.0,
+        -0.44546961395767326,
+        1.3434937005186676,
+        0.0,
+        0.5068199526147055,
+        -0.5068199526147055,
+        0.0,
+        0.0,
+        -0.09392556943971542,
+        0.09392556943971186,
+        0.0,
+        0.0,
+        1.3862943611198906,
+        -1.3862943611198906,
+        6.873964289333401e-05,
+        -6.873964289511036e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.3421711469371189,
+        0.34217114693711537,
+        0.21599794171106979,
+        -0.21599794171106623,
+        0.0,
+        0.0009803023534260547,
+        -0.0009803023534296074,
+        0.0,
+        0.0,
+        0.0,
+        0.23929223377023234,
+        -0.011580420685898929,
+        0.14410651194831203,
+        -0.16193580116477335,
+        0.3473269493583544,
+        0.0,
+        0.5067351215511877,
+        0.5462751393306142,
+        -0.525531568309777,
+        -0.32726932780293083,
+        -1.0241705377932249,
+        0.0,
+        0.0,
+        0.0,
+        -0.40485185757649944,
+        0.0,
+        0.5092923611530189,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.9355196911016144,
+        0.2403379966416388,
+        0.46630626399087305,
+        0.00547781981027029,
+        -0.7718202887705985,
+        -0.0054778198102667375,
+        0.2864370892725745,
+        -1.3862943611198906,
+        0.0,
+        0.5542404604664508,
+        -0.5542404604664508,
+        0.0,
+        5.031261736121451e-07,
+        -5.031261753885019e-07,
+        -1.1502770828386808,
+        1.1502770828386808,
+        0.0,
+        0.0,
+        0.7681465715373648,
+        0.0,
+        0.1405045949777879,
+        0.13947829985891502,
+        -1.3862943611198906,
+        1.3862943611198906,
+        -1.3862943611198906,
+        -1.3862943611198906,
+        -1.3862943611198906,
+        0.0,
+        0.0021685647025826427,
+        -0.00216856470257909,
+        0.0,
+        -0.0065844041673557285,
+        0.0065844041673557285,
+        0.0,
+        1.2200744703089015,
+        0.0,
+        -1.3372308691677368,
+        0.0,
+        0.0,
+        0.0,
+        1.3862943611198906,
+        0.0001006491873436488,
+        0.0,
+        -0.00010065931862079935,
+        -0.0012085810716744305,
+        0.0,
+        0.15172654139444575,
+        -1.090261856695804,
+        0.0,
+        0.0,
+        1.3862943611198906,
+        -0.34025859365828026,
+        0.9072116656774512,
+        -1.3862943611198906,
+        -0.08299623941397272,
+        0.15882383885879037,
+        -1.3862943611198906,
+        0.28297973320224656,
+        0.6407956766940188,
+        0.08299623941397272,
+        -0.9161120600232024,
+        -1.3862943611198906,
+        0.0,
+        0.0,
+        0.0,
+        1.3862943611198906,
+        1.3862943611198906,
+        -0.11329074874886658,
+        -0.11201298990322428,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.49694836607996606,
+        0.49694836607996606,
+        0.0,
+        -0.34463822581126635,
+        0.34463822581126635,
+        0.0,
+        0.0,
+        0.4349491500481335,
+        -0.43494915004813706,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5867386404221548,
+        0.1348621656326081,
+        -0.7152273694377023,
+        0.3893508785038726,
+        0.2137943977195853,
+        -1.0069793839439534,
+        -0.13486216563260456,
+        -0.6697016232261248,
+        0.0,
+        -0.11452714318410884,
+        0.8379803146095739,
+        0.26055095504914405,
+        0.0,
+        0.37161071663957657,
+        -0.7028463700630248,
+        -1.3862943611198906,
+        -1.3862943611198906,
+        -0.05247541436102665,
+        0.05247541436102665,
+        -1.0005629458746714,
+        0.4969568999249283,
+        0.35194096502210215,
+        0.0,
+        0.050131501659940625,
+        0.0,
+        -0.18426090350619262,
+        0.0,
+        0.0,
+        0.0,
+        1.3862943611198906,
+        -0.3021802101573883,
+        -1.3862943611198906,
+        0.3614317725244014,
+        1.1318028546401067,
+        0.0,
+        -1.3525737837602527,
+        0.0
+      ],
+      "residual_transform": {
+        "clip_abs": 1.3862943611198906,
+        "formula": "log(share)-address_log_median"
+      },
+      "shrinkage": {
+        "addend": 5,
+        "formula": "alpha=n/(n+5); log_profile=alpha*address_log_median+(1-alpha)*global_log_median"
+      },
+      "support_address_count": 104,
+      "unit": "microshares_per_operation"
+    },
+    "withdraw": {
+      "direction": "withdraw",
+      "global_log_median": 21.916332301161322,
+      "missing_direction_log_imputation": 21.916332301161322,
+      "nonpositive_observations_excluded": 0,
+      "positive_observation_count": 350,
+      "profiles": [
+        {
+          "address": "0x03249184e0174f755cd5f79863ce55f68b3a9847",
+          "imputed_missing_direction": false,
+          "log_profile": 21.58623837776138,
+          "raw_log_median": 19.935768760761665,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x04904597adc115ffb4987e4befb95aa3024fd3c5",
+          "imputed_missing_direction": false,
+          "log_profile": 21.324868885619495,
+          "raw_log_median": 18.367551807910353,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x07a808f777c529a8a647e691088e8444e10deaa5",
+          "imputed_missing_direction": false,
+          "log_profile": 21.86161017143563,
+          "raw_log_median": 21.724804847121405,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x082594b3869e98dddaf46cb8010ee286fbdbcab1",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x089300e3cd93dbc23c93cc9b8c237f829ce51b04",
+          "imputed_missing_direction": false,
+          "log_profile": 22.899587492476744,
+          "raw_log_median": 25.357725470765303,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x0894074a55337f22349a486c5355ca2159401962",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x0932497508fb4586de0b3f8c355dcd9a3b5320fd",
+          "imputed_missing_direction": false,
+          "log_profile": 21.893842995512863,
+          "raw_log_median": 21.78139646727056,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x0a9f51e5a9ba2a2174152ec276204f4cef156eaa",
+          "imputed_missing_direction": false,
+          "log_profile": 22.432045014472923,
+          "raw_log_median": 25.01060858103093,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x0bced0863ade2773479bb3582b61ee1d8e2876ae",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x0c60ff4329092bc36018823404ad459605911210",
+          "imputed_missing_direction": false,
+          "log_profile": 21.862751379982697,
+          "raw_log_median": 21.59484677408957,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x0cd362691ba2958eae43de37e7643f1ae96b03bd",
+          "imputed_missing_direction": false,
+          "log_profile": 21.982170080619607,
+          "raw_log_median": 22.311358977911027,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x0ce3958a14fea8932d20dcb25006d3d488018c30",
+          "imputed_missing_direction": false,
+          "log_profile": 22.443511708960937,
+          "raw_log_median": 25.079408747959004,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x0d1b6ce30941e501833fe78a37631b38c6395b0c",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x0d3d681762f9eda9541fab6acfb17c50025b630b",
+          "imputed_missing_direction": false,
+          "log_profile": 21.96295461588363,
+          "raw_log_median": 22.19606618949516,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x0d42c534b0aafe7c65df3df54cfd68e2b7886f67",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x0d9fe6a83c21edac0054ba5be78b4bf9257af86b",
+          "imputed_missing_direction": false,
+          "log_profile": 22.09027687972211,
+          "raw_log_median": 22.959999772526047,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x0e6a9a9dc30ff7d4987bc71227f6e34291d6d90e",
+          "imputed_missing_direction": false,
+          "log_profile": 18.2460459487398,
+          "raw_log_median": 15.95211697847635,
+          "shrinkage_alpha": 0.6153846153846154,
+          "support": 8
+        },
+        {
+          "address": "0x10f6ad6b51cf2cbd45f94a913e756cfaec368620",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x13b053f017b6c68e089267ffc3f10ee92ed95a79",
+          "imputed_missing_direction": false,
+          "log_profile": 21.833012420552162,
+          "raw_log_median": 21.416413017506358,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x144cd88f5c7882db7b051224844f1b5301abcee8",
+          "imputed_missing_direction": false,
+          "log_profile": 22.17531277440854,
+          "raw_log_median": 23.470215140644616,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x14e6100f50e43ac5f790c0207b9e00b21fcd703e",
+          "imputed_missing_direction": false,
+          "log_profile": 21.71913108533756,
+          "raw_log_median": 20.733125006218746,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x154fd231984874e0ff2505bcbe845477ac935759",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x1700ce578568ec065d0752fb5f20fbf87c40a90a",
+          "imputed_missing_direction": false,
+          "log_profile": 21.610256880567093,
+          "raw_log_median": 20.07987977759594,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x1916c04754adfee372b45fa65ed0606e834b7f05",
+          "imputed_missing_direction": false,
+          "log_profile": 20.719532902255718,
+          "raw_log_median": 17.72753440499171,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x1a9ea17cd5d024d27e505f6fa68ce465e6053723",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x1b5f15dcb82d25f91c65b53cee151e8b9fbdd271",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x1e35a02913b8150e542c42221ff3c98d04237f37",
+          "imputed_missing_direction": false,
+          "log_profile": 22.188310578357974,
+          "raw_log_median": 23.548201964341224,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x1e4b0702f772ba04b606a3b81d5c2e22dd515c35",
+          "imputed_missing_direction": false,
+          "log_profile": 22.06299751995783,
+          "raw_log_median": 22.796323613940366,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x1fdd220e14b59e26bf1888e8267c4c221983a0a6",
+          "imputed_missing_direction": false,
+          "log_profile": 22.251577141709138,
+          "raw_log_median": 23.927801344448213,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x20493c81da20e64593c77a3297c7c8ed8cd8f879",
+          "imputed_missing_direction": false,
+          "log_profile": 22.254170581694115,
+          "raw_log_median": 23.943361984358084,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x21e580fcdaaa5e94f0a2ec26af5069d5c4661a10",
+          "imputed_missing_direction": false,
+          "log_profile": 22.628073297090097,
+          "raw_log_median": 23.814308290304727,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0x226318c688fdeaeaab64a322d5c8e36d9f6b1d16",
+          "imputed_missing_direction": false,
+          "log_profile": 22.343026388959743,
+          "raw_log_median": 24.47649682795183,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x22bf900bdfd4cdf0af25e142bf0d12f383c6ba75",
+          "imputed_missing_direction": false,
+          "log_profile": 22.569238951084074,
+          "raw_log_median": 25.833772200697833,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x24493370087a890270c040cbf98421f1ee57d29e",
+          "imputed_missing_direction": false,
+          "log_profile": 22.28230027129941,
+          "raw_log_median": 24.112140121989842,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x263b5394e4b3366c0e1a2b6887eb8a39478f43b4",
+          "imputed_missing_direction": false,
+          "log_profile": 21.164297309473685,
+          "raw_log_median": 19.284209830254596,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x2650df0e50e61327381466b5526406d0d4994cc2",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x2696b111cea1deed3fd9dd872b5672d30e19f279",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x2868bc7730fefab47059a08a37f33ea3f6eac8ac",
+          "imputed_missing_direction": false,
+          "log_profile": 22.502899291559142,
+          "raw_log_median": 23.23610802955642,
+          "shrinkage_alpha": 0.4444444444444444,
+          "support": 4
+        },
+        {
+          "address": "0x293508a4b9a7bf501ee52108b1724d8c2f8472b7",
+          "imputed_missing_direction": false,
+          "log_profile": 21.406468667928532,
+          "raw_log_median": 18.857150501764583,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x294cca23e5284116e0a74e6826405e4bf04b4a19",
+          "imputed_missing_direction": false,
+          "log_profile": 22.36346402753285,
+          "raw_log_median": 24.599122659390495,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x2c01b4ad51a67e2d8f02208f54df9ac4c0b778b6",
+          "imputed_missing_direction": false,
+          "log_profile": 23.08346430181014,
+          "raw_log_median": 24.250596302458955,
+          "shrinkage_alpha": 0.5,
+          "support": 5
+        },
+        {
+          "address": "0x2cd7ca2ee4ef60bf2d725b82572c659f6f2cf3e2",
+          "imputed_missing_direction": false,
+          "log_profile": 21.196893616281525,
+          "raw_log_median": 17.599700191882537,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x2fd55b9133b3343d52a2d38e30a43db9126b1eb4",
+          "imputed_missing_direction": false,
+          "log_profile": 22.160388275863948,
+          "raw_log_median": 23.380668149377076,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x330ac93962fb880e3bd61dfa51ed94795b035d93",
+          "imputed_missing_direction": false,
+          "log_profile": 21.86885895147722,
+          "raw_log_median": 21.63149220305669,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x33333333d5efb92f19a5f94a43456b3cec2797ae",
+          "imputed_missing_direction": false,
+          "log_profile": 22.292728326338143,
+          "raw_log_median": 24.174708452222244,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x33ba3eb902d4ff9f32be4152ae30216da3df907b",
+          "imputed_missing_direction": false,
+          "log_profile": 21.63071410758134,
+          "raw_log_median": 20.20262313968143,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x35a83d4c1305451e0448fbca96cab29a7ccd0811",
+          "imputed_missing_direction": false,
+          "log_profile": 21.6938238471603,
+          "raw_log_median": 21.137552712157742,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x35b69ec8da34b0da489d7fbbcc82a707518d890a",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x37dfe3c885a47bc421f39aef5085e7b123ee5b02",
+          "imputed_missing_direction": false,
+          "log_profile": 21.97726974989215,
+          "raw_log_median": 22.129613371719234,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x3868e22dc5885e6f4812653b7da2e2ec360c9061",
+          "imputed_missing_direction": false,
+          "log_profile": 21.71206735850791,
+          "raw_log_median": 20.69074264524085,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x3a49f5a6a8af9b2103d882278193112cf9f73a25",
+          "imputed_missing_direction": false,
+          "log_profile": 20.21419365603113,
+          "raw_log_median": 15.958847043205658,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x3af637465aea69f009004283095b1569e764ecd9",
+          "imputed_missing_direction": false,
+          "log_profile": 22.185113753579536,
+          "raw_log_median": 23.529021015670594,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x3b2e01ad27b70fbc2a21af2972e00e85d2b1cfff",
+          "imputed_missing_direction": false,
+          "log_profile": 22.27877656890579,
+          "raw_log_median": 24.090997907628143,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x3be697aa2a20b3686945df86cbd279d74eb5cf4c",
+          "imputed_missing_direction": false,
+          "log_profile": 18.61859395475245,
+          "raw_log_median": 13.122363377404328,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0x3cc561c1276cccf56d74cc6d65c516ef88a998d2",
+          "imputed_missing_direction": false,
+          "log_profile": 22.123149594048957,
+          "raw_log_median": 23.157236058487126,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x3dbcce1ae06d714da56f7988603dff41052b396c",
+          "imputed_missing_direction": false,
+          "log_profile": 21.924389177341805,
+          "raw_log_median": 21.964673558244222,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x3eba345251c55fcb3fa7fdb7a00eeb0b9815d5dc",
+          "imputed_missing_direction": false,
+          "log_profile": 21.90502408871354,
+          "raw_log_median": 21.87675355759408,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x3ee9de1ed963fa2b6676235b5bb67797fbf1a844",
+          "imputed_missing_direction": false,
+          "log_profile": 22.24600982778191,
+          "raw_log_median": 23.89439746088486,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x3efe375144161a8fdbe75cb1dc14d578cfb5ed25",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x3efed426257b1493e4fad8f54361649642f5b43e",
+          "imputed_missing_direction": false,
+          "log_profile": 22.427543402712747,
+          "raw_log_median": 23.70557115659131,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x3f7c10cbbb1ea1046a80b738b9eaf3217410c7f6",
+          "imputed_missing_direction": false,
+          "log_profile": 22.483696174059162,
+          "raw_log_median": 25.320515538548367,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x3fff58ca68ddabc42cb21a55122838f0ecd00bea",
+          "imputed_missing_direction": false,
+          "log_profile": 22.472506406879845,
+          "raw_log_median": 25.253376935472442,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x4349c6ceb045a7263a91fa9ae3d4bfe83136d348",
+          "imputed_missing_direction": false,
+          "log_profile": 21.154174206312234,
+          "raw_log_median": 17.34338373206678,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x43b9f935c798522aaacb2bfea2f407ce5a291e9d",
+          "imputed_missing_direction": false,
+          "log_profile": 21.987541764897077,
+          "raw_log_median": 22.343589083575846,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x4444aaaacdba5580282365e25b16309bd770ce4a",
+          "imputed_missing_direction": false,
+          "log_profile": 23.342470564781063,
+          "raw_log_median": 24.233806979543402,
+          "shrinkage_alpha": 0.6153846153846154,
+          "support": 8
+        },
+        {
+          "address": "0x46972ba1436658e98f29e6deb15c0ae41c457043",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x499685f706181dc5a72b31598032881879fe6299",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x49f47e38dcf2c87df5f65a072b1df5cf4edf928d",
+          "imputed_missing_direction": false,
+          "log_profile": 21.513833398273558,
+          "raw_log_median": 19.501338883834737,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x4abc33cf81e0d21f42168d044f7002edd6b80b09",
+          "imputed_missing_direction": false,
+          "log_profile": 21.564685834978118,
+          "raw_log_median": 19.806453504062098,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x4b7576abc3870ff017752649dad1221fc424cecf",
+          "imputed_missing_direction": false,
+          "log_profile": 22.78567461333237,
+          "raw_log_median": 24.959030393759996,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x4cd6b970f42b41ee58c2e4b7ab99863d5ae52a23",
+          "imputed_missing_direction": false,
+          "log_profile": 22.100295057307747,
+          "raw_log_median": 23.02010883803986,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x4cdf750ae887b2836d67ea25307d0931a1553b47",
+          "imputed_missing_direction": false,
+          "log_profile": 21.508990662627646,
+          "raw_log_median": 21.416413017506358,
+          "shrinkage_alpha": 0.8148148148148148,
+          "support": 22
+        },
+        {
+          "address": "0x4d04177119a2d1555faac6d58802a6989fe3be97",
+          "imputed_missing_direction": false,
+          "log_profile": 21.370937149279214,
+          "raw_log_median": 18.643961389868682,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x4e18be58acc36ed6aa6a86bbfae124fea00abc01",
+          "imputed_missing_direction": false,
+          "log_profile": 20.94202344559374,
+          "raw_log_median": 16.07047916775584,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x505963da2ef2bb0cd0a7fedaf67c71e745920ac6",
+          "imputed_missing_direction": false,
+          "log_profile": 20.24430463808142,
+          "raw_log_median": 16.06423548038167,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x512db2b1d9ea48969b526c4d9626e63638870e29",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x5152082be0a628dc1b2471416fbb9de49388ecf1",
+          "imputed_missing_direction": false,
+          "log_profile": 22.20855162367402,
+          "raw_log_median": 23.669648236237496,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x52480e49c2436d30f58161e8fadea1fc95afdedb",
+          "imputed_missing_direction": false,
+          "log_profile": 21.160857589146527,
+          "raw_log_median": 19.27217080910954,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x53bdda5f88fe5973dfb06f32232f595dbc73c0c0",
+          "imputed_missing_direction": false,
+          "log_profile": 22.20295650553313,
+          "raw_log_median": 23.636077527392175,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x53ebeeed8c6b3899ac871d48b24f4ba53e6b15d3",
+          "imputed_missing_direction": false,
+          "log_profile": 21.190253833811994,
+          "raw_log_median": 20.46417536646267,
+          "shrinkage_alpha": 0.5,
+          "support": 5
+        },
+        {
+          "address": "0x54991866a907891c9b85478cc1fb0560b17d2b1d",
+          "imputed_missing_direction": false,
+          "log_profile": 21.601874874213607,
+          "raw_log_median": 20.02958773947502,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x55da40f22c29ecd2a3d550057932aedfe9b2970d",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x55da96bbd04015603a7717d6fe3ab40e74fe3838",
+          "imputed_missing_direction": false,
+          "log_profile": 21.75369225173916,
+          "raw_log_median": 20.940492004628357,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x569e62416cc9e10f1bdf6350f4edf20ca2d9b39f",
+          "imputed_missing_direction": false,
+          "log_profile": 21.330799699826265,
+          "raw_log_median": 18.40313669315098,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x578bedf58b1294774c1ebc45ce9f5d8a7633828e",
+          "imputed_missing_direction": false,
+          "log_profile": 22.690334412037657,
+          "raw_log_median": 24.625339689228504,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x5a7575368797695befd785f546c6b8b7e9d37f8c",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x5c0c8d1cf51ac8e8d970051ac69dbdb1315b6036",
+          "imputed_missing_direction": false,
+          "log_profile": 22.099254707287294,
+          "raw_log_median": 23.013866737917155,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x5dc2c366706bf35ceccc1b2eaca8b19cc9170428",
+          "imputed_missing_direction": false,
+          "log_profile": 21.333813767290245,
+          "raw_log_median": 18.421221097934854,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x5ec70fff1ee39950095fa68ca4e39165f694378c",
+          "imputed_missing_direction": false,
+          "log_profile": 21.244260687132506,
+          "raw_log_median": 19.564081652060473,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x61a2ba1348997be349d1c10ef3c626000f31c0fc",
+          "imputed_missing_direction": false,
+          "log_profile": 21.15396469556158,
+          "raw_log_median": 17.34212666756287,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x62d6b0066713f74b95ea63d775982f8a8aa60e34",
+          "imputed_missing_direction": false,
+          "log_profile": 22.03160837129036,
+          "raw_log_median": 22.31979854661296,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x63b8537c7a18f0df8780cb5f36085e5ffadb02a5",
+          "imputed_missing_direction": false,
+          "log_profile": 21.86576975977194,
+          "raw_log_median": 21.612957052825017,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x63e02f93622541cfe41afedcf96a114db71ba4ee",
+          "imputed_missing_direction": false,
+          "log_profile": 22.24062783779158,
+          "raw_log_median": 23.862105520942848,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x64d6bdd7108e6e6f8733fde09d9fb44cc9fdb32c",
+          "imputed_missing_direction": false,
+          "log_profile": 22.276830507436635,
+          "raw_log_median": 24.079321538813204,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x64df7af696e0977771a0e1e1b1a8dd22ded3cf4b",
+          "imputed_missing_direction": false,
+          "log_profile": 21.717373571761506,
+          "raw_log_median": 20.722579924762424,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x6717014072e8d6ffa93308b6af50e0add706a4e5",
+          "imputed_missing_direction": false,
+          "log_profile": 21.82733542243834,
+          "raw_log_median": 21.382351028823415,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x6877bb79f680216bbdf01704939037f22193e771",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x6b5b5f2de5fb8ac403c2632a21b55efc4dcc1ed3",
+          "imputed_missing_direction": false,
+          "log_profile": 21.838549369698065,
+          "raw_log_median": 21.449634712381766,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x6ecf853b09481d3967707a292fdfc31a0edc1d52",
+          "imputed_missing_direction": false,
+          "log_profile": 21.319227425367032,
+          "raw_log_median": 18.333703046395577,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x6fbc134ff4633b9f576059fb294fccd38946bba4",
+          "imputed_missing_direction": false,
+          "log_profile": 22.152158487631343,
+          "raw_log_median": 23.331289419981452,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x700e75593dccbb0d9de117af8ba084382a63d576",
+          "imputed_missing_direction": false,
+          "log_profile": 22.329214236694597,
+          "raw_log_median": 24.39362391436096,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x704d40d9212e511842fee1b667020a471ebe9ce0",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x70a5654fe22b92cb85ce4a101ca9d52dbb6ac4c0",
+          "imputed_missing_direction": false,
+          "log_profile": 22.629662019637887,
+          "raw_log_median": 26.196310612020707,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x70ccbe10f980d80b7ebaab7d2e3a73e87d67b775",
+          "imputed_missing_direction": false,
+          "log_profile": 21.64237949200349,
+          "raw_log_median": 20.957497469108908,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x7286b073c97cdf1eb9ab874fb7f4a87330e0ae76",
+          "imputed_missing_direction": false,
+          "log_profile": 21.05596549000445,
+          "raw_log_median": 16.75413143422008,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x737051bd823887d5128a724688bc5108e91d11be",
+          "imputed_missing_direction": false,
+          "log_profile": 22.60122132691145,
+          "raw_log_median": 26.02566645566208,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x7427e62a55254155aa5fda4289ee1e5f5845611b",
+          "imputed_missing_direction": false,
+          "log_profile": 21.332552939137003,
+          "raw_log_median": 18.4136561290154,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x76337b85c89bb576bf9ca773ebf40a2b057d39fd",
+          "imputed_missing_direction": false,
+          "log_profile": 21.67205296232199,
+          "raw_log_median": 20.450656268125346,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x77a879f392cc765064c12707d2f79b63025b7590",
+          "imputed_missing_direction": false,
+          "log_profile": 21.824994871703037,
+          "raw_log_median": 21.596651298057324,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x789330a9f15bbc61b524714528c1ce72237dc731",
+          "imputed_missing_direction": false,
+          "log_profile": 23.58578695111246,
+          "raw_log_median": 24.97699915940508,
+          "shrinkage_alpha": 0.5454545454545454,
+          "support": 6
+        },
+        {
+          "address": "0x78a4bf18aea7b1654bf2c3845ec8b6423ca536d4",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x79e6ea6c15a9e3931629366cc98f2901dd53a886",
+          "imputed_missing_direction": false,
+          "log_profile": 22.96467965564435,
+          "raw_log_median": 25.585548041851922,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x7a1f5c89860caf7d585970af39d844905bd6ca86",
+          "imputed_missing_direction": false,
+          "log_profile": 21.165978026261108,
+          "raw_log_median": 19.29009233901057,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x7ce2cd742704b27324e6eacd3eebcec7ac940445",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x7d31906369c75e4443065443b1e85e3eb5c93dcd",
+          "imputed_missing_direction": false,
+          "log_profile": 21.758976018726685,
+          "raw_log_median": 21.365585312640093,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x80740cee43f9d8536b13a2b4c5f24705106fa5b2",
+          "imputed_missing_direction": false,
+          "log_profile": 22.045016167496346,
+          "raw_log_median": 22.688435499171458,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x822c9782f35c4bc34216588e96fd6451e8db80cf",
+          "imputed_missing_direction": false,
+          "log_profile": 21.24388060261125,
+          "raw_log_median": 17.88162210986087,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x83bcef98c11a3822ce6f2bc1ef3de6f5b1e232fc",
+          "imputed_missing_direction": false,
+          "log_profile": 22.332401786953497,
+          "raw_log_median": 23.025850929940457,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0x84e0892256ea9355808d66fdd0aff40d88a6bcf8",
+          "imputed_missing_direction": false,
+          "log_profile": 21.50647755351206,
+          "raw_log_median": 19.45720381526574,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x85642f09cae3bcb5e6011a9191e04f641a7142e9",
+          "imputed_missing_direction": false,
+          "log_profile": 22.159201196339065,
+          "raw_log_median": 23.373545672227777,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x857ee67e35b36a179635ddd276605f504e18c3f1",
+          "imputed_missing_direction": false,
+          "log_profile": 22.302029113532306,
+          "raw_log_median": 24.230513175387234,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x86258c90525e6f98d649cfb41618c6102db0c412",
+          "imputed_missing_direction": false,
+          "log_profile": 22.119893612601167,
+          "raw_log_median": 23.137700169800393,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x8648b1e944e1322ec914e6de015dc660f627927c",
+          "imputed_missing_direction": false,
+          "log_profile": 22.35610348166656,
+          "raw_log_median": 23.45553143292965,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x87588d3fbcdff1bf84555f0a22056d94534a74a6",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x88954361e813cc62537c8d2aa0e38f69b7ecdc6f",
+          "imputed_missing_direction": false,
+          "log_profile": 21.526642029945762,
+          "raw_log_median": 19.57819067386796,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x889682887accd192e3c9a789bd9d508238e31c53",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x88e399d855118cc0b2b8f0da50a8306e5318eba8",
+          "imputed_missing_direction": false,
+          "log_profile": 21.715581209297344,
+          "raw_log_median": 20.71182574997745,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x8973b848775a87a0d5bcf262c555859b87e6f7da",
+          "imputed_missing_direction": false,
+          "log_profile": 22.115461637769776,
+          "raw_log_median": 23.111108320812054,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x89c30e3af15d210736b2918fbd655c9842fd74f7",
+          "imputed_missing_direction": false,
+          "log_profile": 22.1133896320144,
+          "raw_log_median": 23.09867628627979,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x8aa056ed37f0e984c760966ad0c6294028a59f6d",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x8bd72f76c09ecb3736dce927bc3aac2249e22472",
+          "imputed_missing_direction": false,
+          "log_profile": 19.600547820559413,
+          "raw_log_median": 13.811086619054645,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x8e8ee92dc7a146982003abad26e4bc4e98776f69",
+          "imputed_missing_direction": false,
+          "log_profile": 21.055838648704945,
+          "raw_log_median": 19.980221583134476,
+          "shrinkage_alpha": 0.4444444444444444,
+          "support": 4
+        },
+        {
+          "address": "0x8ee796309494a10b4170f8912613ee78c75a3430",
+          "imputed_missing_direction": false,
+          "log_profile": 22.265009411315045,
+          "raw_log_median": 23.13670218669936,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x8ff170f9576710369af6a62c98ba4accd13994a7",
+          "imputed_missing_direction": false,
+          "log_profile": 21.30092492419346,
+          "raw_log_median": 18.22388803935415,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x90899216f92e947a1e299157340add9934959349",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0x9298260dd7abbc0b23ccce66f822dedfaac499ba",
+          "imputed_missing_direction": false,
+          "log_profile": 21.780112689062488,
+          "raw_log_median": 21.099014628568312,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x93689e482afc0e2d3215b47806c1555399f3755a",
+          "imputed_missing_direction": false,
+          "log_profile": 22.02453407992731,
+          "raw_log_median": 22.204870377870627,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0x957409aece7a5602b3d2a6456c540ed4a5f36a3e",
+          "imputed_missing_direction": false,
+          "log_profile": 22.140747703055894,
+          "raw_log_median": 22.70178620779233,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x95f84e4469c70580ad1f76115550aa3306fc4c6e",
+          "imputed_missing_direction": false,
+          "log_profile": 20.248630838718,
+          "raw_log_median": 18.580929376274682,
+          "shrinkage_alpha": 0.5,
+          "support": 5
+        },
+        {
+          "address": "0x9725a4bbee1309e2c30f2cb1554f0aebed5f2c26",
+          "imputed_missing_direction": false,
+          "log_profile": 21.26726894337867,
+          "raw_log_median": 18.021952154465406,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x97ade77cd9432be59b16b559a7a6fd2a19230a98",
+          "imputed_missing_direction": false,
+          "log_profile": 21.46893237708073,
+          "raw_log_median": 20.72326583694641,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0x97dbc6c500a8127b9d652c161f6b86038a832edf",
+          "imputed_missing_direction": false,
+          "log_profile": 21.716478746829925,
+          "raw_log_median": 21.216844861001434,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0x992c30047f2982bb72e5b518a1d55b673b1fe01b",
+          "imputed_missing_direction": false,
+          "log_profile": 22.248065869315752,
+          "raw_log_median": 23.90673371008789,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x9a976726dab985a99b3c13710be7d601832542ef",
+          "imputed_missing_direction": false,
+          "log_profile": 22.47646737239226,
+          "raw_log_median": 25.277142728546952,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x9d6fede5da9b4aa14c77ddeacbe3393a6d3f4add",
+          "imputed_missing_direction": false,
+          "log_profile": 21.137940904085394,
+          "raw_log_median": 17.245983918705754,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x9e1c7896fabd6433ba241a954bf8dd508a496833",
+          "imputed_missing_direction": false,
+          "log_profile": 20.676618165751997,
+          "raw_log_median": 14.478047488705357,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0x9f000bbd4115d88ebbbf47aa0923a2ea766406a2",
+          "imputed_missing_direction": false,
+          "log_profile": 22.366666755774503,
+          "raw_log_median": 24.61833902884041,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xa05510853b74f523a077007480ee1bbe258b2aed",
+          "imputed_missing_direction": false,
+          "log_profile": 22.66083013731349,
+          "raw_log_median": 26.383319318074324,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xa2876e41bba8fc004831935e57c8451f3747c49a",
+          "imputed_missing_direction": false,
+          "log_profile": 22.53028695197409,
+          "raw_log_median": 25.600060206037938,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xa33988a49499774603592d4290ef34f21596e2ae",
+          "imputed_missing_direction": false,
+          "log_profile": 22.39639725057323,
+          "raw_log_median": 24.796721997632762,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xa35bd77693e260ef0b2fab7de8a4672907be2508",
+          "imputed_missing_direction": false,
+          "log_profile": 21.200514034238967,
+          "raw_log_median": 17.621422699627182,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xa3e51498579db0f7bb1ec9e3093b2f44158e25a5",
+          "imputed_missing_direction": false,
+          "log_profile": 22.364619029832596,
+          "raw_log_median": 24.60605267318897,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xa7016c3c05741400afe1cc111e3d4bb2838fef72",
+          "imputed_missing_direction": false,
+          "log_profile": 21.98440466820437,
+          "raw_log_median": 22.324766503419593,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xa7b6f3d18db39f65c8056d0892af76c07d15fc5a",
+          "imputed_missing_direction": false,
+          "log_profile": 22.023907628068166,
+          "raw_log_median": 22.13148295497501,
+          "shrinkage_alpha": 0.5,
+          "support": 5
+        },
+        {
+          "address": "0xa80000c3c100007e7f0500d95576a8001e408ede",
+          "imputed_missing_direction": false,
+          "log_profile": 21.274659421068556,
+          "raw_log_median": 18.06629502060472,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xa8c49995efdcad8764e5e6ae1d56c4038cc00568",
+          "imputed_missing_direction": false,
+          "log_profile": 22.966810724732007,
+          "raw_log_median": 24.71760809734981,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0xa9c2912b9678e3d034058f39f7642154400f5a00",
+          "imputed_missing_direction": false,
+          "log_profile": 21.813384911697067,
+          "raw_log_median": 21.298647964375785,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xaaa4d89fb6fe5c45ae795dd78582a13cafd7d047",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xaac22da0baaf48ce621c0c8add5983c2078381bb",
+          "imputed_missing_direction": false,
+          "log_profile": 19.887105021474163,
+          "raw_log_median": 9.740968623038354,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xabcdef0028b6cc3539c2397acab017519f8744c8",
+          "imputed_missing_direction": false,
+          "log_profile": 22.24160471873186,
+          "raw_log_median": 23.054785762658213,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0xb0172ed930e8a2cf9bfabc264b4fcfb4467724ab",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xb1a64cddc6398aa187c67b691b7c5f10828f42f5",
+          "imputed_missing_direction": false,
+          "log_profile": 21.34770395562328,
+          "raw_log_median": 18.504562227933068,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xb1d693b77232d88a3c9467ed5619ffe79e80bccc",
+          "imputed_missing_direction": false,
+          "log_profile": 21.67086328744223,
+          "raw_log_median": 21.364027020293364,
+          "shrinkage_alpha": 0.4444444444444444,
+          "support": 4
+        },
+        {
+          "address": "0xb4f99cbce0620227c22b03fdaaae9ae98e1f0180",
+          "imputed_missing_direction": false,
+          "log_profile": 22.16776016605121,
+          "raw_log_median": 23.424899490500636,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xb634316e06cc0b358437cbadd4dc94f1d3a92b3b",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xb65c858904b5dc5972e2be09decb601e82199252",
+          "imputed_missing_direction": false,
+          "log_profile": 21.41948261509549,
+          "raw_log_median": 18.935234184766323,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xb6c5273e79e2add234ebc07d87f3824e0f94b2f7",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xbbca1111ec2204bd9c546b755f91979e32a15b2e",
+          "imputed_missing_direction": false,
+          "log_profile": 21.152137064945133,
+          "raw_log_median": 20.978456329441457,
+          "shrinkage_alpha": 0.8148148148148148,
+          "support": 22
+        },
+        {
+          "address": "0xbd129b7765ba31a718eda5f75fc5585b7c9861b4",
+          "imputed_missing_direction": false,
+          "log_profile": 21.68870650369777,
+          "raw_log_median": 20.550577516380002,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xbd5ca40c66226f53378ae06bc71784cad6016087",
+          "imputed_missing_direction": false,
+          "log_profile": 23.14758824704949,
+          "raw_log_median": 24.17363486862297,
+          "shrinkage_alpha": 0.5454545454545454,
+          "support": 6
+        },
+        {
+          "address": "0xbd8c14ae3bc592a9b0f1abadbaeae06797d14acb",
+          "imputed_missing_direction": false,
+          "log_profile": 22.42418865841451,
+          "raw_log_median": 24.96347044468045,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xc0a893145ad461af44241a7db5bb99b8998e7d2c",
+          "imputed_missing_direction": false,
+          "log_profile": 22.369077892733326,
+          "raw_log_median": 23.500941871663336,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0xc113c4d519af3e9efb1adb80dbd9e0f20591f48d",
+          "imputed_missing_direction": false,
+          "log_profile": 21.8894819544436,
+          "raw_log_median": 21.882023524799784,
+          "shrinkage_alpha": 0.782608695652174,
+          "support": 18
+        },
+        {
+          "address": "0xc16d7d0d16b185feb5bfb1ee9d45a91a515b26fc",
+          "imputed_missing_direction": false,
+          "log_profile": 21.333723708293164,
+          "raw_log_median": 18.420680743952367,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xc42565d5dbfb1eda113b4f353ec60b3a399a01c1",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xc9377aaad2e86fefea07cd2c38f4d6d6a87131e4",
+          "imputed_missing_direction": false,
+          "log_profile": 22.095694953987632,
+          "raw_log_median": 22.992508218119173,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xcaa141ece9fee66d15f0257f5c6c48e26784345c",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xcb5254e458114495cc9a09056859a981c08e7b0f",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xcb926f497763ea5cf993912a442431e6a91d5a64",
+          "imputed_missing_direction": false,
+          "log_profile": 22.482627895292868,
+          "raw_log_median": 25.31410586595059,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xccdb4a0d275f693024413d272c05ff9a7f9024ea",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xcd4162f84a9043e3530a8762c4d3ea421ad18770",
+          "imputed_missing_direction": false,
+          "log_profile": 22.453938233628577,
+          "raw_log_median": 25.141967895964846,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xd0002c648cca8dee2f2b8d70d542ccde8ad6ec03",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xd08b294dbd8bc760c57abdec26515da626511b40",
+          "imputed_missing_direction": false,
+          "log_profile": 21.755634270637714,
+          "raw_log_median": 20.95214411801967,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xd0fc7e479b948cc3df557b708782efbe11d26ae4",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xd174dea276c4e0f82bbb2cd46e887e80bad8855d",
+          "imputed_missing_direction": false,
+          "log_profile": 20.065577290515336,
+          "raw_log_median": 16.98098560610536,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0xd413a16633d9bb416488442069ae4067f75c290a",
+          "imputed_missing_direction": false,
+          "log_profile": 21.71525379424901,
+          "raw_log_median": 20.70986125968744,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xd438dee8c8c21d8405f673f6ac6a9b49dd459917",
+          "imputed_missing_direction": false,
+          "log_profile": 21.50858652769261,
+          "raw_log_median": 19.469857660349053,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xd4910f22ef70ef3de98758ec84e11bef933f3a40",
+          "imputed_missing_direction": false,
+          "log_profile": 21.325842485047104,
+          "raw_log_median": 18.37339340447601,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xd4f9fe0039da59e6ddb21bbb6e84e0c9e83d73ed",
+          "imputed_missing_direction": false,
+          "log_profile": 22.550550158096403,
+          "raw_log_median": 24.13609480043411,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0xd64cdf9b7101bf61292110579974589176d26846",
+          "imputed_missing_direction": false,
+          "log_profile": 21.98242517988671,
+          "raw_log_median": 22.312889573513647,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xd6748776cf06a80ebe36cd83d325b31bb916bf54",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xd91b6ded55c0fba2c1e88f2cdf6e051ecd788952",
+          "imputed_missing_direction": false,
+          "log_profile": 18.928713457408385,
+          "raw_log_median": 11.459666348026046,
+          "shrinkage_alpha": 0.2857142857142857,
+          "support": 2
+        },
+        {
+          "address": "0xda397504aa199487c733d103ac006b06f372e6cf",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xda53895426469adf7aa0444972e5767c34f70058",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xdb4fb78a5af0760ad6b8a398600566d9f1c0b5df",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xdcd15b0d6d722f3bce1669ac8bd01cd842977b5b",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xdd0b39f6962d2af180c841e0c24d7007c9e14c3f",
+          "imputed_missing_direction": false,
+          "log_profile": 22.0974098873958,
+          "raw_log_median": 23.002797818568176,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xdebc3e0cdf0c48ae94bf173032a35c853aaf25e3",
+          "imputed_missing_direction": false,
+          "log_profile": 22.39671543564328,
+          "raw_log_median": 24.79863110805306,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xe2e74116ad684cd1c6902b784b92158f87ed36e3",
+          "imputed_missing_direction": false,
+          "log_profile": 22.508580054296313,
+          "raw_log_median": 25.46981881997127,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xe5718bbc5b347b5ba3eab66c4b3d81a7642fb17d",
+          "imputed_missing_direction": false,
+          "log_profile": 21.54746519300744,
+          "raw_log_median": 19.703129652238026,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xe5e064f14846b6e3dea67e5362f45b931440726f",
+          "imputed_missing_direction": false,
+          "log_profile": 21.55625940334982,
+          "raw_log_median": 19.75589491429231,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xe5fa0c94b259af512dfa62b432aa60b10ccc95b2",
+          "imputed_missing_direction": false,
+          "log_profile": 21.6080149338736,
+          "raw_log_median": 20.066428097435,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xe6029647727eda0f0d925fbd35eac9c9a6be8720",
+          "imputed_missing_direction": false,
+          "log_profile": 20.979149133748418,
+          "raw_log_median": 19.417177188060247,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0xe748a900b86a0cd92813a544eda5ad84cff4b5da",
+          "imputed_missing_direction": false,
+          "log_profile": 21.44721758363211,
+          "raw_log_median": 19.101643995986045,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xe8f5ffc2399f9f72b49864dbbe1dea29a2c861ff",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xe9234aead2883dee6d240f398416ec3697996312",
+          "imputed_missing_direction": false,
+          "log_profile": 21.2168001662244,
+          "raw_log_median": 17.719139491539774,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xe97f2d37f9612b702d1a2eb5288bd62de95864b8",
+          "imputed_missing_direction": false,
+          "log_profile": 21.715573012527322,
+          "raw_log_median": 20.711776569357323,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xed6d450a6a5093b67b8f70016a788ebd61cbbd8d",
+          "imputed_missing_direction": false,
+          "log_profile": 22.032175886825236,
+          "raw_log_median": 22.6113938151448,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xee22316815ff76a56eb5dbf8ac8280f90fd71005",
+          "imputed_missing_direction": false,
+          "log_profile": 21.595159694612136,
+          "raw_log_median": 19.98929666186621,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xefcdae66bc4a5352872f8226f5e6aaa379c870b0",
+          "imputed_missing_direction": false,
+          "log_profile": 21.713667252348607,
+          "raw_log_median": 20.700342008285038,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xf01f91bad4f15941b00b35c4c148b2bc268b58e1",
+          "imputed_missing_direction": false,
+          "log_profile": 22.208836401408654,
+          "raw_log_median": 23.6713569026453,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xf16f804e8a03f3323d7a6e67bc689651e56babe2",
+          "imputed_missing_direction": false,
+          "log_profile": 21.81789741539419,
+          "raw_log_median": 21.325722986558524,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xf36265d3bc945ff236eadcf58820ad1d6e59d497",
+          "imputed_missing_direction": false,
+          "log_profile": 21.951338637007883,
+          "raw_log_median": 22.126370316240685,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xf39ed30cc51b65392911fea9f33ec1ccceee1ed5",
+          "imputed_missing_direction": false,
+          "log_profile": 22.655764717657238,
+          "raw_log_median": 23.888152078483767,
+          "shrinkage_alpha": 0.375,
+          "support": 3
+        },
+        {
+          "address": "0xf431c4a9bc6befb800b665d0ab96688ef6c2f854",
+          "imputed_missing_direction": false,
+          "log_profile": 24.287545304860927,
+          "raw_log_median": 25.2755507230691,
+          "shrinkage_alpha": 0.7058823529411765,
+          "support": 12
+        },
+        {
+          "address": "0xf70d9128f4109e84624da3c77bf20b81fb2b1089",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xf873bebdd61ab385d6b24c135baf36c729ce8824",
+          "imputed_missing_direction": false,
+          "log_profile": 22.21503034957603,
+          "raw_log_median": 23.70852059164956,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xf98a3ba92f63870b609145c1f9ea1807bcc347b3",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xfa13df83e398c15318d62cf54bf0efb2a7e75442",
+          "imputed_missing_direction": false,
+          "log_profile": 21.33307808776199,
+          "raw_log_median": 18.416807020765333,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xfa4697a87c5e4e0a27cc12c30ed4b9e338ef99ed",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xfab0123b51020641d6e820e95a6d4c73aaa70427",
+          "imputed_missing_direction": false,
+          "log_profile": 22.62182998915482,
+          "raw_log_median": 23.327327677148315,
+          "shrinkage_alpha": 0.5,
+          "support": 5
+        },
+        {
+          "address": "0xfe30cad51ad8990c3852ff4798b4a27827e02e5b",
+          "imputed_missing_direction": false,
+          "log_profile": 22.323752250413236,
+          "raw_log_median": 24.360851996672796,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xfe51263bd0d075dc5441e89ecd1f6d63ff41e02e",
+          "imputed_missing_direction": false,
+          "log_profile": 21.77686068943634,
+          "raw_log_median": 21.07950263081142,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xfeb4acf3df3cdea7399794d0869ef76a6efaff52",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xff15b3ee5543c19d22a837574770c7bfda91f177",
+          "imputed_missing_direction": false,
+          "log_profile": 22.361769281132617,
+          "raw_log_median": 24.588954180989077,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        },
+        {
+          "address": "0xff504b0f481eecd15a5edd1bffbf4e491913f728",
+          "imputed_missing_direction": true,
+          "log_profile": 21.916332301161322,
+          "raw_log_median": null,
+          "shrinkage_alpha": 0.0,
+          "support": 0
+        },
+        {
+          "address": "0xff6899ea779692969f71f93029cd9eb71cf43527",
+          "imputed_missing_direction": false,
+          "log_profile": 22.12829649111416,
+          "raw_log_median": 23.188117440878347,
+          "shrinkage_alpha": 0.16666666666666666,
+          "support": 1
+        }
+      ],
+      "residual_log_pool": [
+        0.0,
+        0.0,
+        1.3862943611198906,
+        -1.3862943611198906,
+        0.015628362894023695,
+        -0.015628362894020142,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.7201507687803019,
+        0.0668255179001278,
+        -0.06682551790012603,
+        -1.143354647501793,
+        -0.6480542521598132,
+        0.45905036977755387,
+        0.3667256014019138,
+        0.26467719626889163,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.040822836119545514,
+        -0.040822836119545514,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.8397506547518212,
+        0.0,
+        0.036943647080512676,
+        0.0,
+        0.0,
+        0.0,
+        1.370431874647693e-07,
+        -1.370431839120556e-07,
+        -0.31561761527378707,
+        0.3156176152737835,
+        -1.1018552188997468,
+        0.6610362663274572,
+        0.0,
+        0.0,
+        0.24569494025111638,
+        0.2375146200603524,
+        -1.1937989855539861,
+        0.0,
+        -0.40836028219486664,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.3862943611198906,
+        1.3862943611198906,
+        -1.301702666329387,
+        1.301702666329387,
+        0.0,
+        0.31876364508049804,
+        -0.3187636450804998,
+        0.0,
+        0.0,
+        0.0,
+        -0.11504728124736907,
+        0.6371396336303139,
+        0.0,
+        0.0,
+        0.4603405400877243,
+        -0.46034054008772074,
+        0.0,
+        -0.6999229339683737,
+        0.6999229339683701,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.22786778304138267,
+        -0.04480691889242294,
+        0.04480691889242294,
+        -0.06692305910839025,
+        0.17833831151694568,
+        0.12352411539151475,
+        -0.2916653177287891,
+        0.12658578854219016,
+        0.0,
+        0.0,
+        0.29578837623072474,
+        -0.2957883762307283,
+        0.0,
+        0.8109302162163274,
+        -0.6931471805599472,
+        -0.035627177643153374,
+        -0.03978087001184605,
+        0.9162907318741524,
+        0.29639401305380275,
+        0.9162907318741524,
+        0.6931471805599436,
+        0.0,
+        -1.3862943611198906,
+        0.0,
+        0.6151856390902317,
+        0.0,
+        -1.3862943611198906,
+        0.2623642644674895,
+        -0.28768207245178345,
+        -0.9675840262617079,
+        -1.3862943611198906,
+        1.3862943611198906,
+        -1.3862943611198906,
+        -0.5798184952529439,
+        0.0,
+        0.0,
+        0.0,
+        0.0009803551720324322,
+        -0.0009803551720288795,
+        0.0,
+        -0.15834288459722856,
+        0.15834288459723211,
+        0.0,
+        0.0,
+        1.2957492856457975e-09,
+        1.2957492856457975e-09,
+        -0.017793098901439208,
+        -0.017793098901439208,
+        0.0,
+        0.0,
+        0.0,
+        0.0013094803242772457,
+        -0.0013094803242772457,
+        0.0,
+        0.0,
+        -0.45803391486712286,
+        0.4580339148671264,
+        0.0,
+        1.3862943611198906,
+        -1.3862943611198906,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.3862943611198906,
+        -1.3862943611198906,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.3862943611198906,
+        -1.3862943611198906,
+        0.4432487648411474,
+        0.18722130476984944,
+        0.8214330773101644,
+        -0.18722130476984944,
+        -0.20365813990608217,
+        -0.225726659711448,
+        0.14835308919074564,
+        -0.1483530891907492,
+        1.3862943611198906,
+        -1.3862943611198906,
+        -0.019058422597904467,
+        0.019058422597900915,
+        0.0,
+        0.0,
+        -1.3862943611198906,
+        0.0,
+        0.20701387458753473,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.18585372398587197,
+        -0.18585372398587197,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.004406938765125545,
+        0.004406938765127322,
+        0.47238994922052413,
+        0.37813170665005913,
+        -0.37813170665005913,
+        -1.1769341316933826,
+        0.1108512567589024,
+        -0.1108512567589024,
+        0.0,
+        0.0,
+        0.0,
+        0.5193609818299407,
+        -0.6769426706922346,
+        -1.3862943611198906,
+        1.3862943611198906,
+        1.3862943611198906,
+        0.6276419765595769,
+        0.0,
+        -0.0010262951188728664,
+        -0.1405045949777879,
+        0.0,
+        -0.2876820724517799,
+        0.0,
+        1.3862943611198906,
+        -1.3862943611198906,
+        1.3862943611198906,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5518776660186724,
+        -0.30960482936048805,
+        0.0,
+        -1.3862943611198906,
+        0.20122079440550067,
+        0.0,
+        -1.0273385420039673,
+        7.800660245749214e-05,
+        0.0,
+        0.0,
+        0.0,
+        -0.3465735902799736,
+        0.3465735902799736,
+        0.0,
+        0.11629932248760255,
+        -0.5772043939503284,
+        -3.9516840779185713e-05,
+        3.951684078273843e-05,
+        0.0,
+        0.0,
+        1.3862943611198906,
+        0.0015889953289267567,
+        -1.1696364295500352,
+        -0.980037757325448,
+        0.5333881827829998,
+        0.7555430795167446,
+        1.3862943611198906,
+        0.8895347146369659,
+        1.3862943611198906,
+        -0.5494122998069209,
+        -0.25667038299301126,
+        1.3862943611198906,
+        -0.2862684274345888,
+        1.3862943611198906,
+        1.3862943611198906,
+        -0.001588995328923204,
+        -0.1744492774499804,
+        -0.5485927379868158,
+        -0.5444293454343203,
+        -0.3363497086489353,
+        -0.149272046209461,
+        1.2525278657071652,
+        0.0,
+        0.23602912809614196,
+        0.22907945218689107,
+        0.2222794403006354,
+        -0.22227944030063185,
+        -0.3441013504302788,
+        -0.2826262006552511,
+        0.0,
+        0.21805623878706726,
+        -0.21805623878706726,
+        1.3862943611198906,
+        0.63154498926815,
+        1.3862943611198906,
+        1.3862943611198906,
+        -1.3862943611198906,
+        -1.3862943611198906,
+        -0.1649956965080861,
+        0.16499569650808255,
+        1.3646115467555937,
+        -1.1616336655153248,
+        0.7284267314108348,
+        0.6982524034394437,
+        -1.3862943611198906,
+        1.0385051427511804,
+        -1.3862943611198906,
+        -0.600874281911203,
+        -1.3862943611198906,
+        -1.3862943611198906,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.689490291313053,
+        -0.00470484792833048,
+        0.0,
+        0.0,
+        0.0,
+        -0.4349491500735887,
+        0.43494915007358514,
+        0.0,
+        -1.3862943611198906,
+        1.3862943611198906,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.3241876269336075,
+        1.2833247246550883,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.3862943611198906,
+        0.4862621731082868,
+        0.0,
+        -1.3862943611198906,
+        -1.3862943611198906,
+        1.3862943611198906,
+        1.3862943611198906,
+        0.7460324804253489,
+        -1.3862943611198906,
+        0.00159200547785332,
+        0.6913756409199543,
+        0.00159200547785332,
+        -0.00159200547785332,
+        -0.17025825144880713,
+        -0.7953745660407634,
+        0.0,
+        0.0,
+        -1.3862943611198906,
+        -1.3862943611198906,
+        0.0,
+        0.9031977722684026,
+        0.34913904088287495,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "residual_transform": {
+        "clip_abs": 1.3862943611198906,
+        "formula": "log(share)-address_log_median"
+      },
+      "shrinkage": {
+        "addend": 5,
+        "formula": "alpha=n/(n+5); log_profile=alpha*address_log_median+(1-alpha)*global_log_median"
+      },
+      "support_address_count": 180,
+      "unit": "microshares_per_operation"
+    }
+  },
+  "profiles_identity_language": "pseudonymous address-level profiles, not humans",
+  "provenance": {
+    "calibrated_parameters_sha256": "dcf9f70f2d0b6465373eb947db27ffa7dc72d2bd033c97fb800ac1a6c2d0a44f",
+    "input_audit_sha256": "e598204a310cd2dccfa557d4f0d63e3832ba1b262fcb89bceaef05e69bfabb21",
+    "rate_generator": "v1 audited Yearn-quantile return generator retained numerically; same-day fixed rate",
+    "source": {
+      "commit": "fb42d294c40830621c5db42b9ccd467db93333ca",
+      "files": {
+        "address_labels": {
+          "availability": "retrieved",
+          "bytes": 13645,
+          "path": "address_labels.json",
+          "sha256": "721f7110480b62ce665def6e63ad954a5d743638885e07744322565f27c94d27",
+          "source_url": "https://raw.githubusercontent.com/Kasra-Z-A/yield_paper/fb42d294c40830621c5db42b9ccd467db93333ca/data/address_labels.json"
+        },
+        "deposits": {
+          "availability": "retrieved",
+          "bytes": 172364,
+          "path": "yearn_deposit_logs.csv",
+          "sha256": "6141420233169655c0b9199ede771868babda493beade9c42f4be3abc970805f",
+          "source_url": "https://raw.githubusercontent.com/Kasra-Z-A/yield_paper/fb42d294c40830621c5db42b9ccd467db93333ca/data/yearn_vault_events/yearn_deposit_logs.csv"
+        },
+        "exchange_rates": {
+          "availability": "retrieved",
+          "bytes": 68645,
+          "path": "yearn_exchange_rate.csv",
+          "sha256": "18725d2d62f268429b1e036fdcfd8e5846db506d67cde5f4a9117e09c9d13729",
+          "source_url": "https://raw.githubusercontent.com/Kasra-Z-A/yield_paper/fb42d294c40830621c5db42b9ccd467db93333ca/results/raw_data/yearn_exchange_rate.csv"
+        },
+        "transactions": {
+          "availability": "lfs_unavailable_pointer",
+          "bytes": 134,
+          "is_lfs_pointer": true,
+          "note": "git or git-lfs executable unavailable",
+          "path": "yearn_transactions.csv",
+          "sha256": "3b3d1f9b26cf0232ca510d80e64979e100359b08c9007eaf255209a0438c2c17",
+          "source_url": "https://raw.githubusercontent.com/Kasra-Z-A/yield_paper/fb42d294c40830621c5db42b9ccd467db93333ca/data/yearn_transactions.csv"
+        },
+        "transfers": {
+          "availability": "retrieved",
+          "bytes": 1401432,
+          "path": "yearn_transfers.csv",
+          "sha256": "84b14f3283220d5e494cd01ba57f8cd7d6d092350e48d795efd57e793d982848",
+          "source_url": "https://raw.githubusercontent.com/Kasra-Z-A/yield_paper/fb42d294c40830621c5db42b9ccd467db93333ca/data/yearn_transfers.csv"
+        },
+        "withdrawals": {
+          "availability": "retrieved",
+          "bytes": 157619,
+          "path": "yearn_withdraw_logs.csv",
+          "sha256": "653a8307510e6f7a794c01022d25dafe19a024175e34c4915f7c940d5d44c6b3",
+          "source_url": "https://raw.githubusercontent.com/Kasra-Z-A/yield_paper/fb42d294c40830621c5db42b9ccd467db93333ca/data/yearn_vault_events/yearn_withdraw_logs.csv"
+        }
+      },
+      "repository": "https://github.com/Kasra-Z-A/yield_paper.git",
+      "retrieved_at_utc": "2026-07-18T06:12:18.358940+00:00"
+    },
+    "source_metadata_sha256": "32419d2fdeded4488675d3e80e1d297ad7ae827106929b5d409c2042c1ec0f64",
+    "state_reconstructed_events_sha256": "9b6a7ecd784f2031d10a9c122737906f8f197e11730487beab5dbba0354875ef"
+  },
+  "purpose": "Stage A calibration only; source events are not replayed as v2 vault actions.",
+  "rate_quantiles": {
+    "p05": 1.5667815130848698e-07,
+    "p25": 6.375911183298388e-06,
+    "p50": 2.5464356833149182e-05,
+    "p75": 6.752284394101471e-05,
+    "p95": 0.00020758452134411712
+  },
+  "raw_filtered_direction_counts": {
+    "deposit": 213,
+    "withdraw": 350
+  },
+  "schema": "repeated_aggregate_nnls_v2_empirical_inputs",
+  "share_exclusions": {
+    "deposit_nonpositive": 0,
+    "nonpositive": 0,
+    "withdraw_nonpositive": 0
+  }
+}

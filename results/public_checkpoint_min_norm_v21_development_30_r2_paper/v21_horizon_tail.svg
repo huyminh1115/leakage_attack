@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1850" viewBox="0 0 1500 1850" role="img" aria-label="V2.1 horizons and tail behavior">
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#172033}.title{font-size:48px;font-weight:700}.sub{font-size:34px;fill:#475569}.label{font-size:38px;font-weight:600}.tick{font-size:32px;fill:#475569}.tiny{font-size:32px;fill:#475569}.note{font-size:32px;font-weight:600;fill:#1d4ed8}</style>
+<text x="750.0" y="60.0" class="title" text-anchor="middle">V2.1 horizons and unreleased-tail behavior</text>
+<text x="750.0" y="108.0" class="sub" text-anchor="middle">30-seed development-only descriptive means; no threshold or interval analysis</text>
+<text x="750.0" y="175.0" class="label" text-anchor="middle">A. Filtered-traffic active-position P10 across horizons</text>
+<text x="460.0" y="212.0" class="tick" text-anchor="middle">day 30</text>
+<text x="690.0" y="212.0" class="tick" text-anchor="middle">day 90</text>
+<text x="920.0" y="212.0" class="tick" text-anchor="middle">day 180</text>
+<text x="1150.0" y="212.0" class="tick" text-anchor="middle">day 365</text>
+<text x="325.0" y="264.0" class="tick" text-anchor="end">k=1</text>
+<rect x="345.0" y="230.0" width="230.0" height="45.0" fill="#2c4cb4" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="230.0" width="230.0" height="45.0" fill="#2c4cb4" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="230.0" width="230.0" height="45.0" fill="#2546b2" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="230.0" width="230.0" height="45.0" fill="#1e40af" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="309.0" class="tick" text-anchor="end">k=2</text>
+<rect x="345.0" y="275.0" width="230.0" height="45.0" fill="#e8f0fc" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="275.0" width="230.0" height="45.0" fill="#d4def5" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="275.0" width="230.0" height="45.0" fill="#d8e2f6" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="275.0" width="230.0" height="45.0" fill="#dde6f8" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="354.0" class="tick" text-anchor="end">k=3</text>
+<rect x="345.0" y="320.0" width="230.0" height="45.0" fill="#e8f0fc" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="320.0" width="230.0" height="45.0" fill="#e6eefc" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="320.0" width="230.0" height="45.0" fill="#e6eefb" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="320.0" width="230.0" height="45.0" fill="#e7effc" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="399.0" class="tick" text-anchor="end">k=4</text>
+<rect x="345.0" y="365.0" width="230.0" height="45.0" fill="#e3ecfa" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="365.0" width="230.0" height="45.0" fill="#e6eefc" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="365.0" width="230.0" height="45.0" fill="#eaf2fd" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="365.0" width="230.0" height="45.0" fill="#eaf1fd" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="444.0" class="tick" text-anchor="end">k=5</text>
+<rect x="345.0" y="410.0" width="230.0" height="45.0" fill="#eef5ff" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="410.0" width="230.0" height="45.0" fill="#e8f0fc" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="410.0" width="230.0" height="45.0" fill="#e9f1fd" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="410.0" width="230.0" height="45.0" fill="#e9f1fd" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="489.0" class="tick" text-anchor="end">k=6</text>
+<rect x="345.0" y="455.0" width="230.0" height="45.0" fill="#d5dff5" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="455.0" width="230.0" height="45.0" fill="#e7effc" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="455.0" width="230.0" height="45.0" fill="#e8f0fc" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="455.0" width="230.0" height="45.0" fill="#eaf2fd" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="534.0" class="tick" text-anchor="end">k=7</text>
+<rect x="345.0" y="500.0" width="230.0" height="45.0" fill="#e9f1fd" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="500.0" width="230.0" height="45.0" fill="#e7effc" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="500.0" width="230.0" height="45.0" fill="#e9f1fd" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="500.0" width="230.0" height="45.0" fill="#eaf1fd" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="579.0" class="tick" text-anchor="end">k=8</text>
+<rect x="345.0" y="545.0" width="230.0" height="45.0" fill="#ebf3fd" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="545.0" width="230.0" height="45.0" fill="#e7effc" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="545.0" width="230.0" height="45.0" fill="#ecf3fe" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="545.0" width="230.0" height="45.0" fill="#ebf3fe" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="624.0" class="tick" text-anchor="end">k=9</text>
+<rect x="345.0" y="590.0" width="230.0" height="45.0" fill="#eef5ff" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="590.0" width="230.0" height="45.0" fill="#e7effc" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="590.0" width="230.0" height="45.0" fill="#ecf3fe" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="590.0" width="230.0" height="45.0" fill="#ecf3fe" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="669.0" class="tick" text-anchor="end">k=10</text>
+<rect x="345.0" y="635.0" width="230.0" height="45.0" fill="#ebf2fd" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="635.0" width="230.0" height="45.0" fill="#ebf2fd" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="635.0" width="230.0" height="45.0" fill="#ebf2fd" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="635.0" width="230.0" height="45.0" fill="#e7effc" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="714.0" class="tick" text-anchor="end">k=15</text>
+<rect x="345.0" y="680.0" width="230.0" height="45.0" fill="#eff6ff" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="680.0" width="230.0" height="45.0" fill="#ebf3fe" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="680.0" width="230.0" height="45.0" fill="#ecf3fe" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="680.0" width="230.0" height="45.0" fill="#eaf2fd" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="759.0" class="tick" text-anchor="end">k=20</text>
+<rect x="345.0" y="725.0" width="230.0" height="45.0" fill="#eff6ff" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="725.0" width="230.0" height="45.0" fill="#e8f0fc" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="725.0" width="230.0" height="45.0" fill="#eef5fe" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="725.0" width="230.0" height="45.0" fill="#ebf3fe" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="804.0" class="tick" text-anchor="end">k=30</text>
+<rect x="345.0" y="770.0" width="230.0" height="45.0" fill="#eff6ff" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="770.0" width="230.0" height="45.0" fill="#edf4fe" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="770.0" width="230.0" height="45.0" fill="#eaf2fd" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="770.0" width="230.0" height="45.0" fill="#e9f1fd" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="849.0" class="tick" text-anchor="end">k=40</text>
+<rect x="345.0" y="815.0" width="230.0" height="45.0" fill="#eff6ff" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="815.0" width="230.0" height="45.0" fill="#eff6ff" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="815.0" width="230.0" height="45.0" fill="#ecf4fe" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="815.0" width="230.0" height="45.0" fill="#e8f0fc" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="894.0" class="tick" text-anchor="end">k=50</text>
+<rect x="345.0" y="860.0" width="230.0" height="45.0" fill="#eff6ff" stroke="#ffffff" stroke-width="2"/>
+<rect x="575.0" y="860.0" width="230.0" height="45.0" fill="#eff6ff" stroke="#ffffff" stroke-width="2"/>
+<rect x="805.0" y="860.0" width="230.0" height="45.0" fill="#eef5ff" stroke="#ffffff" stroke-width="2"/>
+<rect x="1035.0" y="860.0" width="230.0" height="45.0" fill="#ecf3fe" stroke="#ffffff" stroke-width="2"/>
+<text x="240.0" y="567.5" class="tiny" text-anchor="middle" transform="rotate(-90.0 240.0 567.5)">tested category</text>
+<rect x="345.0" y="977.0" width="60" height="30" fill="#eff6ff" stroke="#cbd5e1"/>
+<text x="417.0" y="1002.0" class="tiny" text-anchor="start">0%</text>
+<rect x="525.0" y="977.0" width="60" height="30" fill="#bbc8eb" stroke="#cbd5e1"/>
+<text x="597.0" y="1002.0" class="tiny" text-anchor="start">25%</text>
+<rect x="705.0" y="977.0" width="60" height="30" fill="#869bd7" stroke="#cbd5e1"/>
+<text x="777.0" y="1002.0" class="tiny" text-anchor="start">50%</text>
+<rect x="885.0" y="977.0" width="60" height="30" fill="#526ec3" stroke="#cbd5e1"/>
+<text x="957.0" y="1002.0" class="tiny" text-anchor="start">75%</text>
+<rect x="1065.0" y="977.0" width="60" height="30" fill="#1e40af" stroke="#cbd5e1"/>
+<text x="1137.0" y="1002.0" class="tiny" text-anchor="start">100%</text>
+<text x="795.0" y="1051.0" class="tiny" text-anchor="middle">cell colour: active-position P10</text>
+<rect x="155.0" y="1143.0" width="1270.0" height="300.0" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="790.0" y="1115.0" class="label" text-anchor="middle">B. Day-365 unreleased-tail fraction</text>
+<line x1="155.0" y1="1443.0" x2="1425.0" y2="1443.0" stroke="#e2e8f0" stroke-width="1.5"/>
+<text x="139.0" y="1454.0" class="tick" text-anchor="end">0%</text>
+<line x1="155.0" y1="1343.0" x2="1425.0" y2="1343.0" stroke="#e2e8f0" stroke-width="1.5"/>
+<text x="139.0" y="1354.0" class="tick" text-anchor="end">5%</text>
+<line x1="155.0" y1="1243.0" x2="1425.0" y2="1243.0" stroke="#e2e8f0" stroke-width="1.5"/>
+<text x="139.0" y="1254.0" class="tick" text-anchor="end">10%</text>
+<line x1="155.0" y1="1143.0" x2="1425.0" y2="1143.0" stroke="#e2e8f0" stroke-width="1.5"/>
+<text x="139.0" y="1154.0" class="tick" text-anchor="end">15%</text>
+<text x="73.0" y="1293.0" class="tiny" text-anchor="middle" transform="rotate(-90.0 73.0 1293.0)">tail fraction (%)</text>
+<line x1="213.0" y1="1443.0" x2="213.0" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="213.0" y="1485.0" class="tick" text-anchor="middle">1</text>
+<line x1="295.4" y1="1443.0" x2="295.4" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="295.4" y="1485.0" class="tick" text-anchor="middle">2</text>
+<line x1="377.9" y1="1443.0" x2="377.9" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="377.9" y="1485.0" class="tick" text-anchor="middle">3</text>
+<line x1="460.3" y1="1443.0" x2="460.3" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="460.3" y="1485.0" class="tick" text-anchor="middle">4</text>
+<line x1="542.7" y1="1443.0" x2="542.7" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="542.7" y="1485.0" class="tick" text-anchor="middle">5</text>
+<line x1="625.1" y1="1443.0" x2="625.1" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="625.1" y="1485.0" class="tick" text-anchor="middle">6</text>
+<line x1="707.6" y1="1443.0" x2="707.6" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="707.6" y="1485.0" class="tick" text-anchor="middle">7</text>
+<line x1="790.0" y1="1443.0" x2="790.0" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="790.0" y="1485.0" class="tick" text-anchor="middle">8</text>
+<line x1="872.4" y1="1443.0" x2="872.4" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="872.4" y="1485.0" class="tick" text-anchor="middle">9</text>
+<line x1="954.9" y1="1443.0" x2="954.9" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="954.9" y="1485.0" class="tick" text-anchor="middle">10</text>
+<line x1="1037.3" y1="1443.0" x2="1037.3" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="1037.3" y="1485.0" class="tick" text-anchor="middle">15</text>
+<line x1="1119.7" y1="1443.0" x2="1119.7" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="1119.7" y="1485.0" class="tick" text-anchor="middle">20</text>
+<line x1="1202.1" y1="1443.0" x2="1202.1" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="1202.1" y="1485.0" class="tick" text-anchor="middle">30</text>
+<line x1="1284.6" y1="1443.0" x2="1284.6" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="1284.6" y="1485.0" class="tick" text-anchor="middle">40</text>
+<line x1="1367.0" y1="1443.0" x2="1367.0" y2="1451.0" stroke="#334155" stroke-width="1.5"/>
+<text x="1367.0" y="1485.0" class="tick" text-anchor="middle">50</text>
+<text x="790.0" y="1535.0" class="tiny" text-anchor="middle">distinct eligible pseudonyms k (tested categories)</text>
+<circle cx="208.0" cy="1443.0" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="290.4" cy="1440.8" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="372.9" cy="1437.3" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="455.3" cy="1436.1" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="537.7" cy="1434.6" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="620.1" cy="1429.5" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="702.6" cy="1428.0" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="785.0" cy="1426.2" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="867.4" cy="1420.1" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="949.9" cy="1420.3" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="1032.3" cy="1407.1" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="1114.7" cy="1381.2" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="1197.1" cy="1332.3" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="1279.6" cy="1276.1" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="1362.0" cy="1163.7" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="485.0" cy="1595.0" r="7.0" fill="#0f766e" stroke="#0f766e" stroke-width="1.5"/>
+<text x="515.0" y="1606.0" class="tiny" text-anchor="start">filtered traffic</text>
+<rect x="211.0" y="1436.0" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="293.4" y="1435.3" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="375.9" y="1434.0" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="458.3" y="1433.6" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="540.7" y="1430.6" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="623.1" y="1429.8" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="705.6" y="1429.0" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="788.0" y="1426.0" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="870.4" y="1425.1" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="952.9" y="1422.3" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="1035.3" y="1413.0" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="1117.7" y="1407.3" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="1200.1" y="1376.2" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="1282.6" y="1350.1" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="1365.0" y="1291.6" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="948.0" y="1588.0" width="14.0" height="14.0" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="985.0" y="1606.0" class="tiny" text-anchor="start">all-address traffic</text>
+<text x="750.0" y="1712.0" class="sub" text-anchor="middle">Tail fraction is the mean share of visible actions after the final released checkpoint at day 365.</text>
+<text x="750.0" y="1754.0" class="sub" text-anchor="middle">All marks and cells are categorical descriptive means; no smoothing or interpolation is implied.</text>
+</svg>

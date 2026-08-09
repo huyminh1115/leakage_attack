@@ -1,0 +1,51 @@
+{
+  "schema_version": "public_checkpoint_min_norm_v21_r2",
+  "evidence_status": "development_only_nonconfirmatory",
+  "canonical_development_output_root": "results/public_checkpoint_min_norm_v21_development_30_r2",
+  "purpose": "Corrected r2 rerun of the development-only deterministic numerical public-prefix minimum-norm checkpoint heuristic after pinning HiGHS dual-simplex presolve=false. It is not confirmatory evidence, a qualification procedure, or paper output.",
+  "days": 365,
+  "population_size": 100,
+  "development_seed_range": [41001, 41030],
+  "k_values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 30, 40, 50],
+  "horizons": [30, 90, 180, 365],
+  "traffic_modes": ["known_infrastructure_excluded", "all_addresses"],
+  "release": "checkpoint_totals",
+  "calibration_artifact": "results/v2_empirical_inputs.json",
+  "calibration_artifact_sha256": "6993bbf440904c24bc50bb2675c5ed9c3aa712ccaa0cfa59ef7610463dcb66ae",
+  "generator": {
+    "implementation": "reuse unchanged v2_calibration, v2_simulator, and v2_disclosure modules",
+    "initial_state": "zero",
+    "one_latent_trace_per_seed_traffic": true,
+    "strict_k_partitions": "independently recomputed for every tested k",
+    "activation_hazards": {
+      "known_infrastructure_excluded": 0.44972923398017883,
+      "all_addresses": 0.21393129229545593
+    }
+  },
+  "attacker": {
+    "public_inputs": ["action_id", "global_order", "day", "within_day_tick", "eligible_id", "action_type", "checkpoint_shares"],
+    "ignored_public_fields": ["rate", "checkpoint_assets"],
+    "magnitude_domain": "continuous_nonnegative_microshares",
+    "objective": "minimize 0.5 * sum_i((x_i/M)^2), M=max(1,max_c(abs(checkpoint_shares_c)))",
+    "equalities": "every released cumulative checkpoint share total through the horizon",
+    "inequalities": "per-eligible-id no-overdraft after every modeled action",
+    "tail_policy": "actions after the last completed checkpoint through the horizon receive zero abstention and do not update positions",
+    "feasibility_solver": {
+      "library": "scipy.optimize.linprog",
+      "method": "highs-ds",
+      "presolve": false
+    },
+    "tie_break_solver": {
+      "library": "scipy.optimize.minimize",
+      "method": "SLSQP",
+      "analytic_gradient": true,
+      "analytic_constraint_jacobian": true,
+      "ftol": 1e-09,
+      "maxiter": 1000
+    },
+    "normalized_constraint_tolerance": 1e-07,
+    "runtime_dependency_policy": "Permitted: the already pinned NumPy/SciPy runtime, including SciPy HiGHS and SLSQP. Prohibited: additional or new solver packages, native installations, alternate solver backends, or solver fallbacks."
+  },
+  "claim_boundary": "Deterministic numerical public-prefix minimum-norm heuristic only. It is neither an exact or certified solver, an optimal-attacker result, nor a privacy theorem.",
+  "prohibited": ["qualification selection", "confidence-bound qualification", "confirmatory launch", "paper output", "amount priors", "pseudonym profiles", "rate-only treatment", "NNLS", "additional or new solver packages", "native installations", "alternate solver backends", "solver fallbacks"]
+}

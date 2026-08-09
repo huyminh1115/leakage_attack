@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "confidential-vault-leakage-calibration"
+version = "0.3.0"
+description = "Deterministic V2.1 public-checkpoint and V50 leakage experiments"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy==1.26.4",
+    "scipy==1.11.4",
+]
+
+[project.scripts]
+leakage-v21-development = "leakage_attack.v21_development_cli:main"
+leakage-v50 = "leakage_attack.v50_cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
