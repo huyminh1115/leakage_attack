@@ -1,5 +1,7 @@
 # Leakage Attack Simulations
 
+For short paper-reproduction commands, see [PAPER_REPRODUCTION.md](PAPER_REPRODUCTION.md) or run `make help`.
+
 A public, standalone Python repository for two **synthetic** studies of information leakage from checkpoint-style public data. It is research code, not a deployed-vault study, a cryptographic privacy guarantee, or a recommendation for a production threshold.
 
 - **V2.1** is a development-only, public-checkpoint minimum-norm simulation. Its deterministic synthetic generator uses frozen aggregate calibration inputs. It does not replay real vault transactions.
